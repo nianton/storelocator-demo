@@ -1,0 +1,76 @@
+{
+  "loader": "Loading...",
+  "reasons": {
+    "FarmacyVisit": "Going to the pharmacy or visiting a Medical Doctor",
+    "SuperMarketVisit": "Going to a supply store in operation",
+    "BankVisit": "Going to the bank",
+    "HelpOthers": "Going to help people",
+    "AttendCeremony": "Going to a ceremony (e.g., funeral, marriage, baptism)",
+    "PhysicalExcersise": "Physical exercise in an open space or for a pet’s needs"
+  },
+  "reasonsShort": {
+    "0": "Unknown",
+    "FarmacyVisit": "Going to pharmacy/doctor",
+    "SuperMarketVisit": "Going to store",
+    "BankVisit": "Going to the bank",
+    "HelpOthers": "Going to help people",
+    "AttendCeremony": "Going to ceremony",
+    "PhysicalExcersise": "Physical exercise/pet"
+  },
+  "form": {
+    "header": "Movement Permit",
+    "subheader": "Form for e-submission of Lockdown Movement Permit",
+    "field": {
+      "firstName": "Name",
+      "lastName": "Last name",
+      "address": "Address",
+      "addressPlaceholder": "Enter your home address", 
+      "reason": "Movement reason",
+      "email": "Email (optional)",
+      "submit": "Submit"
+    }
+  },
+  "nav": {
+    "header":"Lockdown Movement Permit",
+    "signIn": "Sign in",
+    "hello": "Hello {{account}}!",
+    "map": "Heatmap"
+  },
+  "validate": {
+    "header":"Permit Validation",
+    "subheader":"Movement Permit details",
+    "label":{
+      "address":"Address",
+      "reason": "Movement reason",
+      "timestamp": "Date and time of submission"
+    }
+  },
+  "heatmap": {
+    "card": {
+      "header":"Permits in last 24 hours",
+      "reason":"Reason",
+      "total": "Total"
+    }
+  },
+  "requestinfo": {
+    "header":"Movement Permit",
+    "subheader": "Movement Permit submission receipt",    
+    "successWithCode": "Permit was successfully submitted with code:",
+    "addNewRequest": "Request another movement permit"
+  },
+  "footer": {
+    "language": { 
+      "el": "Ελληνικά",
+      "en": "English"
+    },
+    "mainText":"We stay at home, work on the cloud and keep devoutly our distances from code.",
+    "information": "Information",
+    "documents": "Documents",
+    "document": {
+      "movementPermit": "Movement permit",
+      "employeePermit": "Commute permit"
+    },
+    "faq": "Useful questions",
+    "privacy": "Privacy policy"
+  }
+}

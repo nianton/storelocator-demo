@@ -1,0 +1,12 @@
+{ // Copy file to local.settings.json and initialize values
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "SearchApiKey": "",
+    "SearchServiceName": "",
+    "SearchIndex": "",
+    "CosmosDbName": "",
+    "CosmosDbConnectionString": ""
+  }
+}

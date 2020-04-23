@@ -1,0 +1,135 @@
+.App {
+  /* text-align: center; */
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  /* background-color: #282c34;
+  min-height: 20vh; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+#map {
+  min-height: 500px;
+}
+
+html.fullscreen footer > .container {
+    display: none;
+}
+
+html.fullscreen, 
+html.fullscreen body, 
+#root {
+  height:100%;
+}
+
+html.fullscreen .nav-wrapper,
+html.fullscreen .footer-copyright .container {
+  width: 96% !important;
+}
+
+html.fullscreen #map {
+    height: webkit-calc(100% - 114px);
+    height: -moz-calc(100% - 114px);
+    height: calc(100% - 114px);
+}
+
+html.fullscreen #map *:focus {
+  outline: none !important ;
+}
+
+html.fullscreen .page-footer {
+  padding-top:0;
+}
+
+html.fullscreen .card-map {
+  top: 67px;
+  z-index: 2000;
+  position: absolute;
+  right: 10px;
+  min-width: 250px;
+  font-size: 0.9em;
+}
+
+html.fullscreen .card-map .card-title {
+  font-size: 20px;
+}
+
+html.fullscreen .card-map .card-content { 
+  padding: 12px 16px;
+}
+
+html.fullscreen .card-map .card-content td, 
+html.fullscreen .card-map .card-content th {
+  padding: 5px;
+}
+
+html.fullscreen .card-map .card-content tr:last-child {
+  border:none !important;
+}
+
+.page-footer .footer-copyright {
+  background-color: rgba(51, 51, 51, 0.28);
+}
+
+@media only screen and (max-width: 992px) {
+  nav .brand-logo {
+    left: 30%;
+    transform: translateX(-30%);
+  }
+}
+
+.container-bots {
+  position: fixed;
+  top: 100px;
+  right: 36px;
+}
+
+.container-bots a:link {
+  display: block;
+  padding: 6px;
+  margin-bottom: 6px;
+  opacity: 0.4;
+}
+  .container-bots a:hover {
+    background-color: #eee;
+    opacity: 1;
+  }
+
+.container-bots img {
+  width: 36px;
+}
+
+@media only screen and (max-width: 992px) {
+  .container-bots {
+    right: 8px;
+  }  
+}
