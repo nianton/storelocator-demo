@@ -31,10 +31,10 @@
     }
   },
   "nav": {
-    "header":"Lockdown Movement Permit",
+    "header":"Lucky Games :: Find a Store near you",
     "signIn": "Sign in",
     "hello": "Hello {{account}}!",
-    "map": "Heatmap"
+    "map": "Stores map"
   },
   "validate": {
     "header":"Permit Validation",
@@ -65,7 +65,7 @@
     },
     "mainText":"We stay at home, work on the cloud and keep devoutly our distances from code.",
     "information": "Information",
-    "documents": "Documents",
+    "stores": "Stores",
     "document": {
       "movementPermit": "Movement permit",
       "employeePermit": "Commute permit"

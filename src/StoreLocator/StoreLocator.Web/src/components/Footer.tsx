@@ -5,7 +5,7 @@ export default function Footer() {
   const t = i18n.t.bind(i18n);
 
   return (
-    <footer className="page-footer blue darken-4">
+    <footer className="page-footer darken-4">
       <div className="container">
           <div className="row">
           <div className="col l6 s12">
@@ -13,7 +13,7 @@ export default function Footer() {
               <p className="grey-text text-lighten-4">{t('footer.mainText')}</p>
           </div>
           <div className="col l3 s12">
-            <h5 className="white-text">{t('footer.documents')}</h5>
+            <h5 className="white-text">{t('footer.stores')}</h5>
               <ul>
                 <li><a className="white-text" target="_blank" href="https://forma.gov.gr/docs/entypo-vevaiosis-kinisis.pdf">{t('footer.document.movementPermit')}</a></li>
                 <li><a className="white-text" target="_blank" href="https://forma.gov.gr/docs/vevaiosi-kikloforias.pdf">{t('footer.document.employeePermit')}</a></li>

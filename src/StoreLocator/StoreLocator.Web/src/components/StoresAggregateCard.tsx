@@ -7,7 +7,7 @@ export interface ExitAggregateCardProps {
   exitAggregate: ExitCountResponse | undefined
 }
 
-export default function ExitAggregateCard(props: ExitAggregateCardProps) {
+export default function StoresAggregateCard(props: ExitAggregateCardProps) {
   const [t] = useTranslation();
   let { exitAggregate } = props;
   

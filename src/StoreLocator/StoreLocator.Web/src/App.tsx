@@ -1,14 +1,14 @@
 import './App.css';
 import React, { useState, useEffect } from 'react';
 import './i18n';
-import ExitRequestForm from './components/ExitRequestForm';
+import HomePage from './components/HomePage';
 import Layout from './components/Layout';
 import { ExitRequestPayload } from './models/ExitRequest';
 import apiClient from './services/ApiClient';
 import { Route, Switch, useHistory } from 'react-router-dom';
-import ExitRequestInfos from './components/ExitRequestInfo';
+import StoreInfo from './components/StoreInfo';
 import ExitRequestValidate from './components/ExitRequestValidate';
-import ExitRequestHeatMap from './components/ExitRequestsHeatMap';
+import StoreLocatorMap from './components/StoreLocatorMap';
 import NotFound from './components/NotFound';
 import appInsights from './services/AppInsights';
 import authProvider from './providers/authProvider';
@@ -86,11 +86,11 @@ export default function App() {
       <Layout user={user}>
         <Switch>
           <Route exact path="/">
-            <ExitRequestForm onSubmit={handleSubmit} isBusy={busy} />
+            <HomePage onSubmit={handleSubmit} isBusy={busy} />
           </Route>
-          <Route path="/details/:id" component={ExitRequestInfos} />
+          <Route path="/details/:id" component={StoreInfo} />
           <Route path="/validate/:id" component={ExitRequestValidate} />
-          <Route path="/heatmap" component={ExitRequestHeatMap} />
+          <Route path="/map" component={StoreLocatorMap} />
           <Route component={NotFound} />
         </Switch>
       </Layout>

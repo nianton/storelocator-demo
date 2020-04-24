@@ -1,16 +1,17 @@
 ﻿namespace StoreLocator.Domain
 {
     using Newtonsoft.Json;
+    using System.Collections.Generic;
 
-    public partial class Address
+    public class Address
     {
-        [JsonProperty("city")]
-        public string City { get; set; }
-
-        [JsonProperty("address")]
-        public string AddressAddress { get; set; }
-
-        [JsonProperty("postalCode")]
-        public long PostalCode { get; set; }
+        [JsonProperty("street")]
+        public string Street { get; set; }
+        [JsonProperty("number")]
+        public string Number { get; set; }
+        [JsonProperty("area")]
+        public string Area { get; set; }
+        [JsonProperty("postCode")]
+        public string PostCode { get; set; }
     }
 }

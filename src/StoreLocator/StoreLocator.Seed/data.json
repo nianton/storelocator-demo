@@ -1,0 +1,5746 @@
+﻿[
+  {
+    "id": "613bc1cb-0e64-4ed4-8d48-fda21e823f36",
+    "posId": 1,
+    "posType": "LuckyGames",
+    "legalName": "Lana Shaw ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "enim",
+      "eiusmod",
+      "voluptate",
+      "irure",
+      "officia"
+    ],
+    "address": {
+      "city": "Marysville",
+      "address": "355 Jodie Court",
+      "postalCode": 94922
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        38.02628638,
+        23.70164038
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "d805adf1-d949-4568-bd49-fea38b3131ba",
+        "name": "ΣΤΟ ΠΡΑΚΤΟΡΕΙΟ",
+        "prodId": "db416fcc-babb-4e5c-beb2-49a7caf4319f",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 53
+      },
+      {
+        "id": "fb46d3cc-0fb6-4495-af14-a2c066a7210b",
+        "name": "ONLINE",
+        "prodId": "db416fcc-babb-4e5c-beb2-49a7caf4319f",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 73
+      },
+      {
+        "id": "2d2117f1-2a79-4d12-829f-f3b554db2d52",
+        "name": "OPAPBET",
+        "prodId": "db416fcc-babb-4e5c-beb2-49a7caf4319f",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 15
+      },
+      {
+        "id": "e09e0b65-ae33-4492-9735-7a6fdb8e158e",
+        "name": "RACES",
+        "prodId": "db416fcc-babb-4e5c-beb2-49a7caf4319f",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 79
+      }
+    ]
+  },
+  {
+    "id": "86afa8f1-08bf-4dc6-9aa7-bc5d9ad77638",
+    "posId": 2,
+    "posType": "HL",
+    "legalName": "Wilma Martinez ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "elit",
+      "amet",
+      "magna",
+      "ullamco",
+      "quis"
+    ],
+    "address": {
+      "city": "Wintersburg",
+      "address": "613 Neptune Avenue",
+      "postalCode": 68674
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        37.97617539,
+        23.788556
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "7ad5cb60-49bf-41c5-9d87-e6ae493a609f",
+        "name": "ΠΡΟΠΟ",
+        "prodId": "9d9c79e7-e9e7-4e89-ae05-6a1836531e63",
+        "productName": "ΠΡΟΓΝ. ΠΟΔΟΣΦΑΙΡΟΥ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 71
+      },
+      {
+        "id": "69602559-8320-4a3d-bca1-75ab71bbf67a",
+        "name": "ΠΡΟΠΟΓΚΟΛ",
+        "prodId": "9d9c79e7-e9e7-4e89-ae05-6a1836531e63",
+        "productName": "ΠΡΟΓΝ. ΠΟΔΟΣΦΑΙΡΟΥ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 36
+      }
+    ]
+  },
+  {
+    "id": "ff891ec1-c276-46ca-ae1b-e43d10658ebe",
+    "posId": 3,
+    "posType": "LuckyGames",
+    "legalName": "Joanna Velasquez ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "Lorem",
+      "labore",
+      "dolor",
+      "esse",
+      "esse"
+    ],
+    "address": {
+      "city": "Coventry",
+      "address": "109 Tapscott Street",
+      "postalCode": 60748
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        38.0305177,
+        23.67454886
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "ff107bd4-0684-473d-a737-217bd1497e74",
+        "name": "ΤΖΟΚΕΡ",
+        "prodId": "675f22fc-707a-42c9-a4f7-0cd29b2a8112",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 67
+      },
+      {
+        "id": "1667f7bc-19ec-4f6b-b910-f2d4b9ba8587",
+        "name": "ΚΙΝΟ",
+        "prodId": "675f22fc-707a-42c9-a4f7-0cd29b2a8112",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 100
+      },
+      {
+        "id": "c26fc3d0-e8b1-43c1-9ea3-da32cc8ee8c4",
+        "name": "ΣΤΟΙΧΗΜΑ",
+        "prodId": "675f22fc-707a-42c9-a4f7-0cd29b2a8112",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 97
+      },
+      {
+        "id": "2fbf0137-42e9-42ca-b3b8-89a1a004c638",
+        "name": "EXTRA 5",
+        "prodId": "675f22fc-707a-42c9-a4f7-0cd29b2a8112",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 80
+      },
+      {
+        "id": "1537c512-70ba-4cb8-9306-4119899bca73",
+        "name": "SUPER 3",
+        "prodId": "675f22fc-707a-42c9-a4f7-0cd29b2a8112",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 5
+      }
+    ]
+  },
+  {
+    "id": "e8a1d85f-d333-45c4-817e-5f6acfed1d6f",
+    "posId": 4,
+    "posType": "LuckyGames",
+    "legalName": "Esmeralda Kramer ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "do",
+      "esse",
+      "anim",
+      "sit",
+      "amet"
+    ],
+    "address": {
+      "city": "Germanton",
+      "address": "471 Rogers Avenue",
+      "postalCode": 89907
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        38.02450986,
+        23.74166635
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "9d6661ee-1e91-44e5-af85-99fdb17ac8be",
+        "name": "ΣΤΟ ΠΡΑΚΤΟΡΕΙΟ",
+        "prodId": "038e60d5-af12-49d0-9826-b2ea8e5b1309",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 32
+      },
+      {
+        "id": "692b17be-a57c-45ee-be62-a551e848c0fa",
+        "name": "ONLINE",
+        "prodId": "038e60d5-af12-49d0-9826-b2ea8e5b1309",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 88
+      },
+      {
+        "id": "9de3e2e3-f5d9-4779-8244-1344eb4cdf0b",
+        "name": "OPAPBET",
+        "prodId": "038e60d5-af12-49d0-9826-b2ea8e5b1309",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 74
+      },
+      {
+        "id": "5ae22425-8ce7-4155-832e-5059555a4345",
+        "name": "RACES",
+        "prodId": "038e60d5-af12-49d0-9826-b2ea8e5b1309",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 45
+      }
+    ]
+  },
+  {
+    "id": "3d555141-d6ed-4db2-8e8e-61e576fe0c53",
+    "posId": 5,
+    "posType": "HL",
+    "legalName": "Malone Gardner ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "enim",
+      "est",
+      "do",
+      "laboris",
+      "aute"
+    ],
+    "address": {
+      "city": "Cataract",
+      "address": "245 Glendale Court",
+      "postalCode": 31515
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        37.96048197,
+        23.77480766
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "8cbfd22f-bbb8-4301-9b08-d1ee569d2303",
+        "name": "ΠΡΟΠΟ",
+        "prodId": "0d1757d0-b9ed-4a0c-93c7-281d9d7f84b8",
+        "productName": "ΠΡΟΓΝ. ΠΟΔΟΣΦΑΙΡΟΥ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 62
+      },
+      {
+        "id": "2d0d5bc4-eae1-479d-8edd-66365195c767",
+        "name": "ΠΡΟΠΟΓΚΟΛ",
+        "prodId": "0d1757d0-b9ed-4a0c-93c7-281d9d7f84b8",
+        "productName": "ΠΡΟΓΝ. ΠΟΔΟΣΦΑΙΡΟΥ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 55
+      }
+    ]
+  },
+  {
+    "id": "1fdfe44c-430d-43a0-85fe-609a2b48353b",
+    "posId": 6,
+    "posType": "HL",
+    "legalName": "Duncan Wolfe ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "anim",
+      "quis",
+      "dolor",
+      "minim",
+      "ad"
+    ],
+    "address": {
+      "city": "Walton",
+      "address": "599 Bayard Street",
+      "postalCode": 59514
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        37.97220706,
+        23.80704449
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "7284b566-cf21-4aad-9aa8-2fc0cff195c1",
+        "name": "ΤΖΟΚΕΡ",
+        "prodId": "6060b2c9-7829-492a-bf63-c65b4832963b",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 9
+      },
+      {
+        "id": "f8a3698e-71f1-48dc-a4a5-ee9dd98d31f4",
+        "name": "ΚΙΝΟ",
+        "prodId": "6060b2c9-7829-492a-bf63-c65b4832963b",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 2
+      },
+      {
+        "id": "a077a06b-956e-4352-b81d-db78a4d3af96",
+        "name": "ΣΤΟΙΧΗΜΑ",
+        "prodId": "6060b2c9-7829-492a-bf63-c65b4832963b",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 69
+      },
+      {
+        "id": "5390cf4d-4016-49b9-9fe3-4d53a895e233",
+        "name": "EXTRA 5",
+        "prodId": "6060b2c9-7829-492a-bf63-c65b4832963b",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 13
+      },
+      {
+        "id": "0579107c-fbcb-443f-b2bf-3715d2ea5f9a",
+        "name": "SUPER 3",
+        "prodId": "6060b2c9-7829-492a-bf63-c65b4832963b",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 74
+      }
+    ]
+  },
+  {
+    "id": "385a6b7e-8adc-47ca-90fc-08b7ed2b7ff8",
+    "posId": 7,
+    "posType": "Bingo",
+    "legalName": "Britt Lara ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "officia",
+      "ipsum",
+      "Lorem",
+      "ex",
+      "elit"
+    ],
+    "address": {
+      "city": "Welda",
+      "address": "420 Bainbridge Street",
+      "postalCode": 73327
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        37.96398151,
+        23.80893786
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "43b30113-ee73-403f-b101-a60c88e62804",
+        "name": "ΣΤΟ ΠΡΑΚΤΟΡΕΙΟ",
+        "prodId": "a96d9bcb-1f12-4df2-a96e-13185c5d556b",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 65
+      },
+      {
+        "id": "74e604e6-6008-439a-9e5e-ea063cdad77e",
+        "name": "ONLINE",
+        "prodId": "a96d9bcb-1f12-4df2-a96e-13185c5d556b",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 7
+      },
+      {
+        "id": "a3f681e1-c9b1-42e8-a3e7-14fdf119e433",
+        "name": "OPAPBET",
+        "prodId": "a96d9bcb-1f12-4df2-a96e-13185c5d556b",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 97
+      },
+      {
+        "id": "98754f09-19c9-4547-a259-266c21248a1f",
+        "name": "RACES",
+        "prodId": "a96d9bcb-1f12-4df2-a96e-13185c5d556b",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 52
+      }
+    ]
+  },
+  {
+    "id": "cd9b7371-057d-4b26-b406-8190eb091a0d",
+    "posId": 8,
+    "posType": "HL",
+    "legalName": "Zimmerman Farrell ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "irure",
+      "do",
+      "sit",
+      "veniam",
+      "aliquip"
+    ],
+    "address": {
+      "city": "Catharine",
+      "address": "849 Legion Street",
+      "postalCode": 15211
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        38.09848709,
+        23.7317723
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "f91ef4a8-ac58-494a-a338-69effebb8be5",
+        "name": "ΤΖΟΚΕΡ",
+        "prodId": "2d89a10c-4f56-4d65-9f20-ebac0886f430",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 14
+      },
+      {
+        "id": "106f20fc-6e85-4661-95fd-d1c6657c8aba",
+        "name": "ΚΙΝΟ",
+        "prodId": "2d89a10c-4f56-4d65-9f20-ebac0886f430",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 72
+      },
+      {
+        "id": "ce1b0784-69f9-4887-a93b-13fec46460d4",
+        "name": "ΣΤΟΙΧΗΜΑ",
+        "prodId": "2d89a10c-4f56-4d65-9f20-ebac0886f430",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 22
+      },
+      {
+        "id": "a75590de-465e-4997-b864-54a15ab01ef9",
+        "name": "EXTRA 5",
+        "prodId": "2d89a10c-4f56-4d65-9f20-ebac0886f430",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 11
+      },
+      {
+        "id": "a7e7f877-2787-4378-9645-433824ae1266",
+        "name": "SUPER 3",
+        "prodId": "2d89a10c-4f56-4d65-9f20-ebac0886f430",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 10
+      }
+    ]
+  },
+  {
+    "id": "61a86500-d0f6-450b-bc68-3a80e845bc8a",
+    "posId": 9,
+    "posType": "HL",
+    "legalName": "Hebert Burke ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "quis",
+      "enim",
+      "officia",
+      "non",
+      "culpa"
+    ],
+    "address": {
+      "city": "Maxville",
+      "address": "612 Manhattan Court",
+      "postalCode": 65294
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        37.97486525,
+        23.74002771
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "f7600192-a0e3-447b-916c-43eca4efd836",
+        "name": "ΣΤΟ ΠΡΑΚΤΟΡΕΙΟ",
+        "prodId": "f2892b4f-e4d1-4f65-ba56-065805ec43c6",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 100
+      },
+      {
+        "id": "3222956a-be20-4dc0-b774-cd83f0b5bce6",
+        "name": "ONLINE",
+        "prodId": "f2892b4f-e4d1-4f65-ba56-065805ec43c6",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 21
+      },
+      {
+        "id": "e1b8a81e-feaf-4a8a-98e2-7691b708172e",
+        "name": "OPAPBET",
+        "prodId": "f2892b4f-e4d1-4f65-ba56-065805ec43c6",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 22
+      },
+      {
+        "id": "482ac846-779b-4c3b-912a-5141d3a8d8cf",
+        "name": "RACES",
+        "prodId": "f2892b4f-e4d1-4f65-ba56-065805ec43c6",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 99
+      }
+    ]
+  },
+  {
+    "id": "e4fe987f-eb4b-466b-bf64-9834ff77e148",
+    "posId": 10,
+    "posType": "LuckyGames",
+    "legalName": "Andrews Rose ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "do",
+      "pariatur",
+      "do",
+      "ex",
+      "sunt"
+    ],
+    "address": {
+      "city": "Dodge",
+      "address": "610 Kings Hwy",
+      "postalCode": 71867
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        38.02189964,
+        23.76522959
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "cb844b3f-2766-45fa-8001-9a8dd4e77859",
+        "name": "ΣΤΟ ΠΡΑΚΤΟΡΕΙΟ",
+        "prodId": "36e87f1a-ba6f-412a-af8d-78863471027d",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 10
+      },
+      {
+        "id": "7329c243-7495-495a-ac3b-df5f5be6fcf4",
+        "name": "ONLINE",
+        "prodId": "36e87f1a-ba6f-412a-af8d-78863471027d",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 28
+      },
+      {
+        "id": "1afc545a-e127-4a17-be3f-83876411b4d9",
+        "name": "OPAPBET",
+        "prodId": "36e87f1a-ba6f-412a-af8d-78863471027d",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 90
+      },
+      {
+        "id": "93c3864e-7f11-4d34-aa7b-219c1cc36460",
+        "name": "RACES",
+        "prodId": "36e87f1a-ba6f-412a-af8d-78863471027d",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 75
+      }
+    ]
+  },
+  {
+    "id": "f9fd5aa4-3935-4f08-8ba1-20a1018107f1",
+    "posId": 11,
+    "posType": "Bingo",
+    "legalName": "Cecile Mccray ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "consectetur",
+      "consectetur",
+      "incididunt",
+      "veniam",
+      "enim"
+    ],
+    "address": {
+      "city": "Harrison",
+      "address": "912 Pineapple Street",
+      "postalCode": 96375
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        38.01015604,
+        23.83287741
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "de2b9324-0c04-4751-9020-353365686844",
+        "name": "ΤΖΟΚΕΡ",
+        "prodId": "fb319c9d-7446-4b8b-aa22-f93c94f0d8db",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 99
+      },
+      {
+        "id": "8194b6c4-fd94-4966-bf43-eda7487cdd93",
+        "name": "ΚΙΝΟ",
+        "prodId": "fb319c9d-7446-4b8b-aa22-f93c94f0d8db",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 69
+      },
+      {
+        "id": "6de4bcd5-e7a8-411c-82df-0d6fd72a7c7a",
+        "name": "ΣΤΟΙΧΗΜΑ",
+        "prodId": "fb319c9d-7446-4b8b-aa22-f93c94f0d8db",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 48
+      },
+      {
+        "id": "08fea650-2dbd-446a-9df7-f6377977eb20",
+        "name": "EXTRA 5",
+        "prodId": "fb319c9d-7446-4b8b-aa22-f93c94f0d8db",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 54
+      },
+      {
+        "id": "21f6347a-2a3b-4a44-8bfb-713d0c8709b1",
+        "name": "SUPER 3",
+        "prodId": "fb319c9d-7446-4b8b-aa22-f93c94f0d8db",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 73
+      }
+    ]
+  },
+  {
+    "id": "ecb8c680-d583-4b43-89ec-c5b8c3f62451",
+    "posId": 12,
+    "posType": "Bingo",
+    "legalName": "Bridges Lee ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "non",
+      "velit",
+      "aliqua",
+      "velit",
+      "quis"
+    ],
+    "address": {
+      "city": "Whitestone",
+      "address": "577 Cooper Street",
+      "postalCode": 75333
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        38.02043259,
+        23.69229486
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "e963a2e3-ec61-45ad-a679-142c15abb11f",
+        "name": "ΤΖΟΚΕΡ",
+        "prodId": "9e2382c7-1fc1-4e37-b1a0-78aa7aec5b47",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 77
+      },
+      {
+        "id": "f05ed0b6-d1b5-4e60-ba35-8f0ec73957e7",
+        "name": "ΚΙΝΟ",
+        "prodId": "9e2382c7-1fc1-4e37-b1a0-78aa7aec5b47",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 18
+      },
+      {
+        "id": "f706a254-e637-4c8b-bb16-5ae1f207685d",
+        "name": "ΣΤΟΙΧΗΜΑ",
+        "prodId": "9e2382c7-1fc1-4e37-b1a0-78aa7aec5b47",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 15
+      },
+      {
+        "id": "ef1ab687-645e-495c-9e39-5657636da4b6",
+        "name": "EXTRA 5",
+        "prodId": "9e2382c7-1fc1-4e37-b1a0-78aa7aec5b47",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 89
+      },
+      {
+        "id": "2aeee58a-32ff-4a04-bcaa-a43af06b12b4",
+        "name": "SUPER 3",
+        "prodId": "9e2382c7-1fc1-4e37-b1a0-78aa7aec5b47",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 99
+      }
+    ]
+  },
+  {
+    "id": "7c29d4a5-2109-45b8-b4d2-d402871dc51d",
+    "posId": 13,
+    "posType": "Bingo",
+    "legalName": "Tillman Davenport ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "duis",
+      "ad",
+      "dolor",
+      "nulla",
+      "ut"
+    ],
+    "address": {
+      "city": "Ribera",
+      "address": "356 Merit Court",
+      "postalCode": 40952
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        37.97556896,
+        23.7635858
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "a8a4179a-7704-4b98-aac6-fd7f5e2594c9",
+        "name": "ΣΤΟ ΠΡΑΚΤΟΡΕΙΟ",
+        "prodId": "e2743fe7-48f9-4cbf-9f9b-8b5fcba63040",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 97
+      },
+      {
+        "id": "86506800-0730-4a98-a5e5-34bd771df763",
+        "name": "ONLINE",
+        "prodId": "e2743fe7-48f9-4cbf-9f9b-8b5fcba63040",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 28
+      },
+      {
+        "id": "6766c135-9909-4032-9914-053db4f48a9c",
+        "name": "OPAPBET",
+        "prodId": "e2743fe7-48f9-4cbf-9f9b-8b5fcba63040",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 83
+      },
+      {
+        "id": "e371a8d1-2696-4fbf-8486-6b650238c8a4",
+        "name": "RACES",
+        "prodId": "e2743fe7-48f9-4cbf-9f9b-8b5fcba63040",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 44
+      }
+    ]
+  },
+  {
+    "id": "86e9c016-9543-4d01-92d9-fb16f64462c6",
+    "posId": 14,
+    "posType": "Bingo",
+    "legalName": "Dianne Black ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "tempor",
+      "irure",
+      "aliqua",
+      "ea",
+      "est"
+    ],
+    "address": {
+      "city": "Veyo",
+      "address": "686 Broome Street",
+      "postalCode": 32877
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        38.08809307,
+        23.69448735
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "0d0136f2-6ab4-4b0d-a590-760756901bfe",
+        "name": "ΠΡΟΠΟ",
+        "prodId": "a46b3804-9a3e-4b38-a6fe-4ab752d8c6a1",
+        "productName": "ΠΡΟΓΝ. ΠΟΔΟΣΦΑΙΡΟΥ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 85
+      },
+      {
+        "id": "4000d66d-f25f-451e-9c1b-ecf55488b22f",
+        "name": "ΠΡΟΠΟΓΚΟΛ",
+        "prodId": "a46b3804-9a3e-4b38-a6fe-4ab752d8c6a1",
+        "productName": "ΠΡΟΓΝ. ΠΟΔΟΣΦΑΙΡΟΥ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 29
+      }
+    ]
+  },
+  {
+    "id": "3031a90c-b0e9-4377-afab-caf24e312e6a",
+    "posId": 15,
+    "posType": "Bingo",
+    "legalName": "Stephenson Barker ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "duis",
+      "magna",
+      "Lorem",
+      "fugiat",
+      "non"
+    ],
+    "address": {
+      "city": "Waterview",
+      "address": "651 McKibbin Street",
+      "postalCode": 66951
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        37.937487,
+        23.80520944
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "c4c67733-621e-47f4-9e69-b6ff36a34afa",
+        "name": "ΠΡΟΠΟ",
+        "prodId": "c75bd466-cac6-4cb1-833d-e2b690df8190",
+        "productName": "ΠΡΟΓΝ. ΠΟΔΟΣΦΑΙΡΟΥ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 46
+      },
+      {
+        "id": "bdc6761a-c594-4521-8124-a607f65aa130",
+        "name": "ΠΡΟΠΟΓΚΟΛ",
+        "prodId": "c75bd466-cac6-4cb1-833d-e2b690df8190",
+        "productName": "ΠΡΟΓΝ. ΠΟΔΟΣΦΑΙΡΟΥ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 8
+      }
+    ]
+  },
+  {
+    "id": "473909d7-0f74-49cf-9b8a-f14817c6a32c",
+    "posId": 16,
+    "posType": "HL",
+    "legalName": "Sonja Buckner ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "Lorem",
+      "aute",
+      "et",
+      "eiusmod",
+      "id"
+    ],
+    "address": {
+      "city": "Skyland",
+      "address": "862 Cheever Place",
+      "postalCode": 11056
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        38.04458588,
+        23.66834291
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "5dacf71a-efa2-4887-b58b-cf58d741f494",
+        "name": "ΤΖΟΚΕΡ",
+        "prodId": "fbcdbce5-dbd8-4648-a5db-5a472852a5d5",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 3
+      },
+      {
+        "id": "7ce13858-780e-4229-b3f9-aef348d25795",
+        "name": "ΚΙΝΟ",
+        "prodId": "fbcdbce5-dbd8-4648-a5db-5a472852a5d5",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 59
+      },
+      {
+        "id": "3aafbafa-57de-4323-aec6-917f055c31c7",
+        "name": "ΣΤΟΙΧΗΜΑ",
+        "prodId": "fbcdbce5-dbd8-4648-a5db-5a472852a5d5",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 28
+      },
+      {
+        "id": "b09dcb7e-df58-482f-9c83-3a0e743d2187",
+        "name": "EXTRA 5",
+        "prodId": "fbcdbce5-dbd8-4648-a5db-5a472852a5d5",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 90
+      },
+      {
+        "id": "0de807f6-3c3e-4c0a-96bf-3c95de14ad46",
+        "name": "SUPER 3",
+        "prodId": "fbcdbce5-dbd8-4648-a5db-5a472852a5d5",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 52
+      }
+    ]
+  },
+  {
+    "id": "90ea55cc-ae2d-4c75-966a-e8ab2737ca86",
+    "posId": 17,
+    "posType": "LuckyGames",
+    "legalName": "Sandra Thompson ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "sit",
+      "culpa",
+      "quis",
+      "nulla",
+      "elit"
+    ],
+    "address": {
+      "city": "Wells",
+      "address": "977 Bliss Terrace",
+      "postalCode": 61759
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        38.01579584,
+        23.8278839
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "e826d1b4-dba2-476a-933d-fc64102bc31b",
+        "name": "ΠΡΟΠΟ",
+        "prodId": "a19f8aa5-e31e-4245-b230-aade3cf37af3",
+        "productName": "ΠΡΟΓΝ. ΠΟΔΟΣΦΑΙΡΟΥ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 97
+      },
+      {
+        "id": "b30454c7-5aed-441e-a376-38b05b5d1095",
+        "name": "ΠΡΟΠΟΓΚΟΛ",
+        "prodId": "a19f8aa5-e31e-4245-b230-aade3cf37af3",
+        "productName": "ΠΡΟΓΝ. ΠΟΔΟΣΦΑΙΡΟΥ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 65
+      }
+    ]
+  },
+  {
+    "id": "88dddf1f-3d8c-43d9-9b26-7b069b71f42e",
+    "posId": 18,
+    "posType": "HL",
+    "legalName": "Pamela Kline ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "excepteur",
+      "nostrud",
+      "nostrud",
+      "in",
+      "exercitation"
+    ],
+    "address": {
+      "city": "Umapine",
+      "address": "409 Narrows Avenue",
+      "postalCode": 78570
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        38.0581074,
+        23.72738795
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "3fe68db9-40df-4186-93f8-fc3a4ddab479",
+        "name": "ΤΖΟΚΕΡ",
+        "prodId": "b4e1e1ed-429c-4c5d-9645-09405b9a6c82",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 3
+      },
+      {
+        "id": "efdc556b-87ed-46c2-8cff-c17c4ecd0500",
+        "name": "ΚΙΝΟ",
+        "prodId": "b4e1e1ed-429c-4c5d-9645-09405b9a6c82",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 57
+      },
+      {
+        "id": "8e856f07-38fb-425b-9ba6-421c02f49f17",
+        "name": "ΣΤΟΙΧΗΜΑ",
+        "prodId": "b4e1e1ed-429c-4c5d-9645-09405b9a6c82",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 89
+      },
+      {
+        "id": "b555efa9-edc0-407f-acd1-2d1c1bf8d857",
+        "name": "EXTRA 5",
+        "prodId": "b4e1e1ed-429c-4c5d-9645-09405b9a6c82",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 12
+      },
+      {
+        "id": "05d8181c-9a6f-4634-b254-28af7f949071",
+        "name": "SUPER 3",
+        "prodId": "b4e1e1ed-429c-4c5d-9645-09405b9a6c82",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 87
+      }
+    ]
+  },
+  {
+    "id": "77be86ce-3427-429b-9272-637807006197",
+    "posId": 19,
+    "posType": "HL",
+    "legalName": "Austin Ramos ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "aliqua",
+      "quis",
+      "tempor",
+      "Lorem",
+      "dolore"
+    ],
+    "address": {
+      "city": "Wiscon",
+      "address": "967 Madeline Court",
+      "postalCode": 74350
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        37.96848413,
+        23.76934256
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "1300c791-aac6-4113-8d8d-66db98ef7d3d",
+        "name": "ΤΖΟΚΕΡ",
+        "prodId": "2364c036-cd6f-476e-af01-9b8a19fb823a",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 92
+      },
+      {
+        "id": "caaa7c8d-18f0-440d-99fd-b1063e176856",
+        "name": "ΚΙΝΟ",
+        "prodId": "2364c036-cd6f-476e-af01-9b8a19fb823a",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 28
+      },
+      {
+        "id": "e407e6f5-237c-4c68-a928-757c98db1235",
+        "name": "ΣΤΟΙΧΗΜΑ",
+        "prodId": "2364c036-cd6f-476e-af01-9b8a19fb823a",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 11
+      },
+      {
+        "id": "e7e8d5f6-f0f7-4ec2-a6b5-112002fbc60b",
+        "name": "EXTRA 5",
+        "prodId": "2364c036-cd6f-476e-af01-9b8a19fb823a",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 53
+      },
+      {
+        "id": "23c2e4d4-56f5-49bf-b2e7-9c132a4e4ced",
+        "name": "SUPER 3",
+        "prodId": "2364c036-cd6f-476e-af01-9b8a19fb823a",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 45
+      }
+    ]
+  },
+  {
+    "id": "5415c792-edba-46da-91e4-adeaa97a8fa4",
+    "posId": 20,
+    "posType": "Bingo",
+    "legalName": "Jordan Blair ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "cupidatat",
+      "eu",
+      "dolore",
+      "magna",
+      "ullamco"
+    ],
+    "address": {
+      "city": "Monument",
+      "address": "350 Elm Place",
+      "postalCode": 57182
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        38.05999286,
+        23.68172614
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "b084c031-651c-4900-b1f8-c378a13421e6",
+        "name": "ΠΡΟΠΟ",
+        "prodId": "46406512-52c3-440b-b383-88b2319a834c",
+        "productName": "ΠΡΟΓΝ. ΠΟΔΟΣΦΑΙΡΟΥ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 63
+      },
+      {
+        "id": "f6e7eaff-592f-4869-9a80-0f9a4cbc2272",
+        "name": "ΠΡΟΠΟΓΚΟΛ",
+        "prodId": "46406512-52c3-440b-b383-88b2319a834c",
+        "productName": "ΠΡΟΓΝ. ΠΟΔΟΣΦΑΙΡΟΥ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 68
+      }
+    ]
+  },
+  {
+    "id": "fefcfe3b-35e5-4906-8b2b-661033e54ee4",
+    "posId": 21,
+    "posType": "Bingo",
+    "legalName": "Dolly Powell ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "commodo",
+      "ea",
+      "qui",
+      "consectetur",
+      "in"
+    ],
+    "address": {
+      "city": "Cawood",
+      "address": "111 Bijou Avenue",
+      "postalCode": 50218
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        38.05055157,
+        23.76954805
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "23dabaf3-7b30-4b53-8d3e-d1d4a492adfc",
+        "name": "ΣΤΟ ΠΡΑΚΤΟΡΕΙΟ",
+        "prodId": "ac960c56-51b0-4296-b21a-265a5ba958d0",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 2
+      },
+      {
+        "id": "9bdd840a-bf89-4133-bf1c-0eb15de0b988",
+        "name": "ONLINE",
+        "prodId": "ac960c56-51b0-4296-b21a-265a5ba958d0",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 6
+      },
+      {
+        "id": "ae31bafe-0cb6-4caa-900d-f38d11a5e750",
+        "name": "OPAPBET",
+        "prodId": "ac960c56-51b0-4296-b21a-265a5ba958d0",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 88
+      },
+      {
+        "id": "a91bf3dc-2df3-4825-9cb2-5f0e6e37ed2a",
+        "name": "RACES",
+        "prodId": "ac960c56-51b0-4296-b21a-265a5ba958d0",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 76
+      }
+    ]
+  },
+  {
+    "id": "a36ed241-3cb2-4f11-8919-2eb3e821a10c",
+    "posId": 22,
+    "posType": "Bingo",
+    "legalName": "Roy Ray ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "ipsum",
+      "ipsum",
+      "eiusmod",
+      "in",
+      "officia"
+    ],
+    "address": {
+      "city": "Grahamtown",
+      "address": "248 Kosciusko Street",
+      "postalCode": 75738
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        38.06627838,
+        23.8299343
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "5f5bbfb0-7271-4a0a-af7b-463a2eff87f2",
+        "name": "ΤΖΟΚΕΡ",
+        "prodId": "aab6a3fd-b728-4b82-a206-dc2f0065e797",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 37
+      },
+      {
+        "id": "4a0e131d-fead-4fa8-91f2-992d6fe96c9e",
+        "name": "ΚΙΝΟ",
+        "prodId": "aab6a3fd-b728-4b82-a206-dc2f0065e797",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 11
+      },
+      {
+        "id": "6eaf58a7-3d81-4922-9557-530958be932e",
+        "name": "ΣΤΟΙΧΗΜΑ",
+        "prodId": "aab6a3fd-b728-4b82-a206-dc2f0065e797",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 91
+      },
+      {
+        "id": "b348c836-b0de-45e4-8d5c-755a722c8ab1",
+        "name": "EXTRA 5",
+        "prodId": "aab6a3fd-b728-4b82-a206-dc2f0065e797",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 31
+      },
+      {
+        "id": "fe1a64b0-72cf-4b57-9dcb-b84d785af4d0",
+        "name": "SUPER 3",
+        "prodId": "aab6a3fd-b728-4b82-a206-dc2f0065e797",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 5
+      }
+    ]
+  },
+  {
+    "id": "976a2e42-4358-4ae0-9d9b-2451c7334e17",
+    "posId": 23,
+    "posType": "LuckyGames",
+    "legalName": "Patton Estrada ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "duis",
+      "dolore",
+      "id",
+      "aliqua",
+      "amet"
+    ],
+    "address": {
+      "city": "Kidder",
+      "address": "806 Bank Street",
+      "postalCode": 62233
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        38.08762262,
+        23.73414339
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "c2fefea1-ab95-450d-af64-3b69199097e1",
+        "name": "ΠΡΟΠΟ",
+        "prodId": "d2e81d5a-0d20-4e4b-b303-5baa0e534cc3",
+        "productName": "ΠΡΟΓΝ. ΠΟΔΟΣΦΑΙΡΟΥ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 35
+      },
+      {
+        "id": "445a9e00-2942-4a27-ba4a-0af4d2ef56a5",
+        "name": "ΠΡΟΠΟΓΚΟΛ",
+        "prodId": "d2e81d5a-0d20-4e4b-b303-5baa0e534cc3",
+        "productName": "ΠΡΟΓΝ. ΠΟΔΟΣΦΑΙΡΟΥ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 76
+      }
+    ]
+  },
+  {
+    "id": "babaa8b4-50b6-4418-a11b-118ca1abdbef",
+    "posId": 24,
+    "posType": "LuckyGames",
+    "legalName": "Keri Potter ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "amet",
+      "in",
+      "incididunt",
+      "Lorem",
+      "enim"
+    ],
+    "address": {
+      "city": "Sanders",
+      "address": "112 Lake Street",
+      "postalCode": 53557
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        37.99507262,
+        23.80652311
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "73268636-d235-44ad-89ef-af78d0720da5",
+        "name": "ΤΖΟΚΕΡ",
+        "prodId": "e63300a8-887b-4210-8104-0663b6723161",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 86
+      },
+      {
+        "id": "92e2a4ef-a5d5-4941-98cc-cd4e0bd1c743",
+        "name": "ΚΙΝΟ",
+        "prodId": "e63300a8-887b-4210-8104-0663b6723161",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 64
+      },
+      {
+        "id": "208c2545-04ce-45f3-b7ec-fde2de48bd79",
+        "name": "ΣΤΟΙΧΗΜΑ",
+        "prodId": "e63300a8-887b-4210-8104-0663b6723161",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 70
+      },
+      {
+        "id": "c98b2d6b-e845-4026-b1e4-892ed3ce2082",
+        "name": "EXTRA 5",
+        "prodId": "e63300a8-887b-4210-8104-0663b6723161",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 29
+      },
+      {
+        "id": "31e5ea3e-4208-4a0c-835c-56365432e138",
+        "name": "SUPER 3",
+        "prodId": "e63300a8-887b-4210-8104-0663b6723161",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 44
+      }
+    ]
+  },
+  {
+    "id": "145a61f4-63bb-4fad-9101-e522d12b7ae4",
+    "posId": 25,
+    "posType": "LuckyGames",
+    "legalName": "Hardin Schultz ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "cillum",
+      "commodo",
+      "tempor",
+      "et",
+      "nulla"
+    ],
+    "address": {
+      "city": "Conestoga",
+      "address": "247 Conklin Avenue",
+      "postalCode": 88360
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        38.07767738,
+        23.84140418
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "89aad462-fbfb-4a5d-9af6-7c461dadd163",
+        "name": "ΤΖΟΚΕΡ",
+        "prodId": "8f098dc1-2230-41db-a21c-97c3e8ace70b",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 70
+      },
+      {
+        "id": "0ad97d4c-6112-4efe-b2a3-d125632b7b40",
+        "name": "ΚΙΝΟ",
+        "prodId": "8f098dc1-2230-41db-a21c-97c3e8ace70b",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 30
+      },
+      {
+        "id": "72cfa08a-b8a0-407c-b5e8-900c1c5dfbd2",
+        "name": "ΣΤΟΙΧΗΜΑ",
+        "prodId": "8f098dc1-2230-41db-a21c-97c3e8ace70b",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 5
+      },
+      {
+        "id": "4d11c702-1fea-46b0-bd55-48e435b376e4",
+        "name": "EXTRA 5",
+        "prodId": "8f098dc1-2230-41db-a21c-97c3e8ace70b",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 73
+      },
+      {
+        "id": "2d9f8ac7-79d0-442b-91f0-2bd0aab7eb97",
+        "name": "SUPER 3",
+        "prodId": "8f098dc1-2230-41db-a21c-97c3e8ace70b",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 11
+      }
+    ]
+  },
+  {
+    "id": "bd1864e8-de20-4654-ba3e-8477fd47fb53",
+    "posId": 26,
+    "posType": "Bingo",
+    "legalName": "Sims Raymond ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "occaecat",
+      "dolor",
+      "sint",
+      "non",
+      "ex"
+    ],
+    "address": {
+      "city": "Bridgetown",
+      "address": "821 Pulaski Street",
+      "postalCode": 44811
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        37.96565407,
+        23.75642239
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "504c4c64-4e6b-4b60-ac27-088405ad3b7a",
+        "name": "ΣΤΟ ΠΡΑΚΤΟΡΕΙΟ",
+        "prodId": "4afc905f-b614-430e-a9eb-2ce9796d5b68",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 88
+      },
+      {
+        "id": "76f5246c-043b-47f5-8132-922eff11ae24",
+        "name": "ONLINE",
+        "prodId": "4afc905f-b614-430e-a9eb-2ce9796d5b68",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 85
+      },
+      {
+        "id": "4ed1e061-12ff-4ee3-9174-f4201c42a736",
+        "name": "OPAPBET",
+        "prodId": "4afc905f-b614-430e-a9eb-2ce9796d5b68",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 41
+      },
+      {
+        "id": "5ddb42c0-11fd-4e02-b3c9-af9c683954d3",
+        "name": "RACES",
+        "prodId": "4afc905f-b614-430e-a9eb-2ce9796d5b68",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 38
+      }
+    ]
+  },
+  {
+    "id": "61cde74f-5305-4762-9c10-61968cbd8226",
+    "posId": 27,
+    "posType": "HL",
+    "legalName": "Christa Cook ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "Lorem",
+      "nostrud",
+      "irure",
+      "quis",
+      "mollit"
+    ],
+    "address": {
+      "city": "Steinhatchee",
+      "address": "807 Greene Avenue",
+      "postalCode": 94815
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        38.07544343,
+        23.82535252
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "5561cb5e-f417-4116-afb4-f397ec8ed2ce",
+        "name": "ΠΡΟΠΟ",
+        "prodId": "58ceb144-2b23-4be6-bbb2-b9bfbff60560",
+        "productName": "ΠΡΟΓΝ. ΠΟΔΟΣΦΑΙΡΟΥ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 80
+      },
+      {
+        "id": "f7d3abbf-c18f-4046-8b45-9bfb6d2a336a",
+        "name": "ΠΡΟΠΟΓΚΟΛ",
+        "prodId": "58ceb144-2b23-4be6-bbb2-b9bfbff60560",
+        "productName": "ΠΡΟΓΝ. ΠΟΔΟΣΦΑΙΡΟΥ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 87
+      }
+    ]
+  },
+  {
+    "id": "9d5dd5bf-dd09-49b6-96f0-e3cce5aeaaf9",
+    "posId": 28,
+    "posType": "HL",
+    "legalName": "Hester Alvarez ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "est",
+      "adipisicing",
+      "aliqua",
+      "ex",
+      "irure"
+    ],
+    "address": {
+      "city": "Gasquet",
+      "address": "948 Milton Street",
+      "postalCode": 36176
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        38.01689455,
+        23.69081095
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "f433d585-0895-4b99-a09d-9f67f6129071",
+        "name": "ΤΖΟΚΕΡ",
+        "prodId": "69140a3f-dd88-421f-802a-4c1a73baa651",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 67
+      },
+      {
+        "id": "21e4c485-a6c3-487d-ade8-76ace246af45",
+        "name": "ΚΙΝΟ",
+        "prodId": "69140a3f-dd88-421f-802a-4c1a73baa651",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 23
+      },
+      {
+        "id": "4297e6a8-f4aa-43c8-83b3-928cc661a637",
+        "name": "ΣΤΟΙΧΗΜΑ",
+        "prodId": "69140a3f-dd88-421f-802a-4c1a73baa651",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 85
+      },
+      {
+        "id": "7203476e-38f1-45f2-89a2-3746bc66138c",
+        "name": "EXTRA 5",
+        "prodId": "69140a3f-dd88-421f-802a-4c1a73baa651",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 69
+      },
+      {
+        "id": "1ab4d038-401f-417f-83a7-5fcd19e50771",
+        "name": "SUPER 3",
+        "prodId": "69140a3f-dd88-421f-802a-4c1a73baa651",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 3
+      }
+    ]
+  },
+  {
+    "id": "13c638a3-1582-4605-9ce6-0231820f7440",
+    "posId": 29,
+    "posType": "HL",
+    "legalName": "Benton Clemons ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "eiusmod",
+      "est",
+      "amet",
+      "nulla",
+      "sint"
+    ],
+    "address": {
+      "city": "Vallonia",
+      "address": "666 Kiely Place",
+      "postalCode": 46949
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        38.09970553,
+        23.72371909
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "a9f5e3b0-2ad4-46ba-9347-7e8df71545f8",
+        "name": "ΤΖΟΚΕΡ",
+        "prodId": "11ba0264-7f76-4886-9cbe-d79f9fd38363",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 90
+      },
+      {
+        "id": "2aaac838-c203-4f57-b5b3-7e791556fb68",
+        "name": "ΚΙΝΟ",
+        "prodId": "11ba0264-7f76-4886-9cbe-d79f9fd38363",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 13
+      },
+      {
+        "id": "9d933c41-9bc5-4586-8d39-f367f21a6b86",
+        "name": "ΣΤΟΙΧΗΜΑ",
+        "prodId": "11ba0264-7f76-4886-9cbe-d79f9fd38363",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 41
+      },
+      {
+        "id": "ad1dab37-b227-4e63-91cc-0034e4f92263",
+        "name": "EXTRA 5",
+        "prodId": "11ba0264-7f76-4886-9cbe-d79f9fd38363",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 43
+      },
+      {
+        "id": "ce6b1cbe-6c96-4329-adb6-d1cad5ed6364",
+        "name": "SUPER 3",
+        "prodId": "11ba0264-7f76-4886-9cbe-d79f9fd38363",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 5
+      }
+    ]
+  },
+  {
+    "id": "2e5ebfb5-fa20-43ae-9b58-2804093d5942",
+    "posId": 30,
+    "posType": "Bingo",
+    "legalName": "Verna Macdonald ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "enim",
+      "minim",
+      "id",
+      "eiusmod",
+      "in"
+    ],
+    "address": {
+      "city": "Ahwahnee",
+      "address": "529 Bowery Street",
+      "postalCode": 72678
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        37.99019971,
+        23.70953769
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "f2ce3121-b47f-4b55-8165-e384d099deec",
+        "name": "ΠΡΟΠΟ",
+        "prodId": "bd1fa29d-07ba-4b09-bf0c-91006696602f",
+        "productName": "ΠΡΟΓΝ. ΠΟΔΟΣΦΑΙΡΟΥ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 33
+      },
+      {
+        "id": "fe1c1de6-d019-4a54-90bd-29f91967a40a",
+        "name": "ΠΡΟΠΟΓΚΟΛ",
+        "prodId": "bd1fa29d-07ba-4b09-bf0c-91006696602f",
+        "productName": "ΠΡΟΓΝ. ΠΟΔΟΣΦΑΙΡΟΥ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 49
+      }
+    ]
+  },
+  {
+    "id": "213263c7-31e4-4643-965b-e1a3dfb6abdc",
+    "posId": 31,
+    "posType": "Bingo",
+    "legalName": "Jodi Barrera ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "pariatur",
+      "occaecat",
+      "est",
+      "dolore",
+      "ad"
+    ],
+    "address": {
+      "city": "Nogal",
+      "address": "118 Eldert Street",
+      "postalCode": 71956
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        38.07014317,
+        23.67084846
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "73335a29-3a31-43f6-b952-8eac230a27d8",
+        "name": "ΤΖΟΚΕΡ",
+        "prodId": "08219a17-5970-42b5-82a1-c5847223e7af",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 78
+      },
+      {
+        "id": "d6fab955-2020-4927-a33a-adda2677a2b2",
+        "name": "ΚΙΝΟ",
+        "prodId": "08219a17-5970-42b5-82a1-c5847223e7af",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 6
+      },
+      {
+        "id": "f540eb16-b501-4be6-99d1-43f5b0c6f892",
+        "name": "ΣΤΟΙΧΗΜΑ",
+        "prodId": "08219a17-5970-42b5-82a1-c5847223e7af",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 46
+      },
+      {
+        "id": "285798ff-4291-4b0e-a74a-110edbfc9042",
+        "name": "EXTRA 5",
+        "prodId": "08219a17-5970-42b5-82a1-c5847223e7af",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 31
+      },
+      {
+        "id": "783c6610-80e7-4737-8245-42b43d6aa9c9",
+        "name": "SUPER 3",
+        "prodId": "08219a17-5970-42b5-82a1-c5847223e7af",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 43
+      }
+    ]
+  },
+  {
+    "id": "16acbf44-72dc-480d-92e5-8efb4c3b38e8",
+    "posId": 32,
+    "posType": "LuckyGames",
+    "legalName": "Walker Christian ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "nostrud",
+      "laborum",
+      "duis",
+      "nulla",
+      "culpa"
+    ],
+    "address": {
+      "city": "Worcester",
+      "address": "510 Oxford Walk",
+      "postalCode": 44335
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        38.0405365,
+        23.77116849
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "79f6a281-3cca-49a4-b9a1-bdb1041b67c2",
+        "name": "ΣΤΟ ΠΡΑΚΤΟΡΕΙΟ",
+        "prodId": "6ecc59e2-9fa7-457f-89c1-855eee53b26f",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 85
+      },
+      {
+        "id": "30e5b5ae-4629-48d5-977a-0dc262bf9fde",
+        "name": "ONLINE",
+        "prodId": "6ecc59e2-9fa7-457f-89c1-855eee53b26f",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 55
+      },
+      {
+        "id": "e63737e6-1c0f-4aa1-8564-0c88cd793539",
+        "name": "OPAPBET",
+        "prodId": "6ecc59e2-9fa7-457f-89c1-855eee53b26f",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 26
+      },
+      {
+        "id": "4934ad6f-dbb0-4e3f-852b-77150a832057",
+        "name": "RACES",
+        "prodId": "6ecc59e2-9fa7-457f-89c1-855eee53b26f",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 80
+      }
+    ]
+  },
+  {
+    "id": "07ee526b-bea0-4fb6-a880-1d157185a7e2",
+    "posId": 33,
+    "posType": "Bingo",
+    "legalName": "Robbie James ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "velit",
+      "adipisicing",
+      "in",
+      "tempor",
+      "elit"
+    ],
+    "address": {
+      "city": "Gibbsville",
+      "address": "901 Elton Street",
+      "postalCode": 45432
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        37.99500844,
+        23.70309005
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "2fc12198-36de-4d3f-9990-f6741c595652",
+        "name": "ΠΡΟΠΟ",
+        "prodId": "8b0c90a3-649e-40ec-a7fc-0b7e44a1a737",
+        "productName": "ΠΡΟΓΝ. ΠΟΔΟΣΦΑΙΡΟΥ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 24
+      },
+      {
+        "id": "6ca6e982-457a-47f1-b1cf-fd8df3054011",
+        "name": "ΠΡΟΠΟΓΚΟΛ",
+        "prodId": "8b0c90a3-649e-40ec-a7fc-0b7e44a1a737",
+        "productName": "ΠΡΟΓΝ. ΠΟΔΟΣΦΑΙΡΟΥ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 34
+      }
+    ]
+  },
+  {
+    "id": "2fbaf091-5e2f-40db-a474-19be86e69d23",
+    "posId": 34,
+    "posType": "HL",
+    "legalName": "Kari Oneal ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "eu",
+      "eiusmod",
+      "minim",
+      "non",
+      "ut"
+    ],
+    "address": {
+      "city": "Trucksville",
+      "address": "977 Kingsway Place",
+      "postalCode": 19062
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        38.05930536,
+        23.74795575
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "4eba6798-667c-4567-9950-3cadab897fb5",
+        "name": "ΤΖΟΚΕΡ",
+        "prodId": "9950c194-4e3d-4d96-a82e-2428af815822",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 70
+      },
+      {
+        "id": "56ccfda7-151d-4c69-97fc-4756ed61f0d2",
+        "name": "ΚΙΝΟ",
+        "prodId": "9950c194-4e3d-4d96-a82e-2428af815822",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 6
+      },
+      {
+        "id": "65ffe7ac-673c-4d53-a6d8-68e47ffce29b",
+        "name": "ΣΤΟΙΧΗΜΑ",
+        "prodId": "9950c194-4e3d-4d96-a82e-2428af815822",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 70
+      },
+      {
+        "id": "edd1d435-cf31-4340-ac1c-03e20f7fe389",
+        "name": "EXTRA 5",
+        "prodId": "9950c194-4e3d-4d96-a82e-2428af815822",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 31
+      },
+      {
+        "id": "54515ab5-3e54-4f9e-9997-ae827f6aa266",
+        "name": "SUPER 3",
+        "prodId": "9950c194-4e3d-4d96-a82e-2428af815822",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 94
+      }
+    ]
+  },
+  {
+    "id": "b3224776-8572-487c-bbe8-4b3021b23117",
+    "posId": 35,
+    "posType": "LuckyGames",
+    "legalName": "Hood Price ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "nisi",
+      "consectetur",
+      "eu",
+      "non",
+      "veniam"
+    ],
+    "address": {
+      "city": "Wacissa",
+      "address": "671 Glenwood Road",
+      "postalCode": 10673
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        38.07201282,
+        23.78360322
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "78f680ed-d470-4f26-86e8-673e1c993938",
+        "name": "ΤΖΟΚΕΡ",
+        "prodId": "64e716c4-6997-4f42-b9d5-0f0eb2c071f7",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 4
+      },
+      {
+        "id": "6593005f-3ab3-458f-9cc8-4649dc95c11c",
+        "name": "ΚΙΝΟ",
+        "prodId": "64e716c4-6997-4f42-b9d5-0f0eb2c071f7",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 71
+      },
+      {
+        "id": "bafe9ac5-71e2-4e1b-8d16-bde94f07b343",
+        "name": "ΣΤΟΙΧΗΜΑ",
+        "prodId": "64e716c4-6997-4f42-b9d5-0f0eb2c071f7",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 69
+      },
+      {
+        "id": "4b58d322-ce4d-462b-b2dc-ac80f3b4c1b1",
+        "name": "EXTRA 5",
+        "prodId": "64e716c4-6997-4f42-b9d5-0f0eb2c071f7",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 13
+      },
+      {
+        "id": "c27a02ab-9787-4d13-86c9-18b7682cb9ef",
+        "name": "SUPER 3",
+        "prodId": "64e716c4-6997-4f42-b9d5-0f0eb2c071f7",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 52
+      }
+    ]
+  },
+  {
+    "id": "e7f4c51d-83a3-4084-9bda-000e74a64214",
+    "posId": 36,
+    "posType": "LuckyGames",
+    "legalName": "Lelia Chapman ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "aliqua",
+      "quis",
+      "magna",
+      "voluptate",
+      "occaecat"
+    ],
+    "address": {
+      "city": "Libertytown",
+      "address": "828 Montana Place",
+      "postalCode": 95308
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        38.0154435,
+        23.66627799
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "5c13ac16-6e51-4573-a6f0-c2dba051527f",
+        "name": "ΠΡΟΠΟ",
+        "prodId": "a23482b6-5fda-40bf-9fcf-efe2ba89c480",
+        "productName": "ΠΡΟΓΝ. ΠΟΔΟΣΦΑΙΡΟΥ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 74
+      },
+      {
+        "id": "aaca6f1e-e453-4dd1-9db5-fe960d1937d2",
+        "name": "ΠΡΟΠΟΓΚΟΛ",
+        "prodId": "a23482b6-5fda-40bf-9fcf-efe2ba89c480",
+        "productName": "ΠΡΟΓΝ. ΠΟΔΟΣΦΑΙΡΟΥ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 1
+      }
+    ]
+  },
+  {
+    "id": "c10b0dac-1120-4881-b295-3380c4d6dfd4",
+    "posId": 37,
+    "posType": "HL",
+    "legalName": "Silva Hughes ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "minim",
+      "laborum",
+      "quis",
+      "do",
+      "ea"
+    ],
+    "address": {
+      "city": "Zortman",
+      "address": "621 Sackman Street",
+      "postalCode": 29586
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        37.999939,
+        23.83305875
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "0dcf52e3-77e2-451f-83b3-a77e17faa30c",
+        "name": "ΣΤΟ ΠΡΑΚΤΟΡΕΙΟ",
+        "prodId": "2841ffc8-d690-4224-b887-6eea4a80c740",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 48
+      },
+      {
+        "id": "368a222a-2f81-4911-8d5f-05d7ac5e6fbd",
+        "name": "ONLINE",
+        "prodId": "2841ffc8-d690-4224-b887-6eea4a80c740",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 29
+      },
+      {
+        "id": "c045a822-0722-40b4-9b49-117e27f83e36",
+        "name": "OPAPBET",
+        "prodId": "2841ffc8-d690-4224-b887-6eea4a80c740",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 0
+      },
+      {
+        "id": "83f0787e-0d6e-4ec8-995d-5d12dc485cf4",
+        "name": "RACES",
+        "prodId": "2841ffc8-d690-4224-b887-6eea4a80c740",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 39
+      }
+    ]
+  },
+  {
+    "id": "a721ee48-ba7f-48e6-8f46-90a8d521418c",
+    "posId": 38,
+    "posType": "HL",
+    "legalName": "Hayden Baker ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "anim",
+      "consequat",
+      "eiusmod",
+      "fugiat",
+      "ea"
+    ],
+    "address": {
+      "city": "Jackpot",
+      "address": "771 Lynch Street",
+      "postalCode": 87737
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        37.99887238,
+        23.69083197
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "236d88f3-ec2d-4f1f-8d05-5b1de052df26",
+        "name": "ΠΡΟΠΟ",
+        "prodId": "bb0cc0df-aab6-4933-8cc3-e97229e96540",
+        "productName": "ΠΡΟΓΝ. ΠΟΔΟΣΦΑΙΡΟΥ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 91
+      },
+      {
+        "id": "67e289a3-85d1-47ba-899c-bd0aca98b948",
+        "name": "ΠΡΟΠΟΓΚΟΛ",
+        "prodId": "bb0cc0df-aab6-4933-8cc3-e97229e96540",
+        "productName": "ΠΡΟΓΝ. ΠΟΔΟΣΦΑΙΡΟΥ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 30
+      }
+    ]
+  },
+  {
+    "id": "a4b39256-ba4a-436a-bae2-005d3fe81d0d",
+    "posId": 39,
+    "posType": "LuckyGames",
+    "legalName": "Woods Byrd ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "occaecat",
+      "laboris",
+      "reprehenderit",
+      "velit",
+      "do"
+    ],
+    "address": {
+      "city": "Hannasville",
+      "address": "508 Crawford Avenue",
+      "postalCode": 38515
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        38.02161156,
+        23.84515553
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "40b09971-082d-4e0c-bd02-8772db3acfaa",
+        "name": "ΤΖΟΚΕΡ",
+        "prodId": "d4cc04e7-72d0-40ed-903b-7dd82ea6a460",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 11
+      },
+      {
+        "id": "39f87ca7-0325-4a32-95a4-0fdc6062d0f8",
+        "name": "ΚΙΝΟ",
+        "prodId": "d4cc04e7-72d0-40ed-903b-7dd82ea6a460",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 26
+      },
+      {
+        "id": "3491e27b-5eae-4f1c-9e71-47d68bdc2ddf",
+        "name": "ΣΤΟΙΧΗΜΑ",
+        "prodId": "d4cc04e7-72d0-40ed-903b-7dd82ea6a460",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 16
+      },
+      {
+        "id": "eb8b36cf-907b-4d79-b108-143c7564b7f6",
+        "name": "EXTRA 5",
+        "prodId": "d4cc04e7-72d0-40ed-903b-7dd82ea6a460",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 93
+      },
+      {
+        "id": "7e60f27b-9f68-4891-a608-273d17920844",
+        "name": "SUPER 3",
+        "prodId": "d4cc04e7-72d0-40ed-903b-7dd82ea6a460",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 98
+      }
+    ]
+  },
+  {
+    "id": "9cefd204-7768-476b-9df7-7db86b3e3c33",
+    "posId": 40,
+    "posType": "LuckyGames",
+    "legalName": "Anna Yates ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "non",
+      "duis",
+      "laborum",
+      "ipsum",
+      "aliquip"
+    ],
+    "address": {
+      "city": "Spelter",
+      "address": "473 Hewes Street",
+      "postalCode": 16358
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        37.99228879,
+        23.66830037
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "c1412040-db85-44bf-8d34-c1bf59faac3e",
+        "name": "ΤΖΟΚΕΡ",
+        "prodId": "596eece9-2870-4bf1-8680-afc7d102ae97",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 83
+      },
+      {
+        "id": "fb0df50c-d581-4865-bd9e-9eb4baf411a7",
+        "name": "ΚΙΝΟ",
+        "prodId": "596eece9-2870-4bf1-8680-afc7d102ae97",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 96
+      },
+      {
+        "id": "8086f65a-b736-4c0d-b5f2-aafffe823858",
+        "name": "ΣΤΟΙΧΗΜΑ",
+        "prodId": "596eece9-2870-4bf1-8680-afc7d102ae97",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 30
+      },
+      {
+        "id": "d22bb624-a18c-4e1f-962f-2586b025045a",
+        "name": "EXTRA 5",
+        "prodId": "596eece9-2870-4bf1-8680-afc7d102ae97",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 80
+      },
+      {
+        "id": "9509fcb0-0250-4e3f-b9e2-22ddbe013112",
+        "name": "SUPER 3",
+        "prodId": "596eece9-2870-4bf1-8680-afc7d102ae97",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 61
+      }
+    ]
+  },
+  {
+    "id": "f9ff4fe3-2a05-4d0f-8112-959ed5973820",
+    "posId": 41,
+    "posType": "HL",
+    "legalName": "Rochelle Moody ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "cupidatat",
+      "exercitation",
+      "proident",
+      "nulla",
+      "aliqua"
+    ],
+    "address": {
+      "city": "Mathews",
+      "address": "712 Sedgwick Street",
+      "postalCode": 19739
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        38.08685011,
+        23.78492991
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "0c69863e-d034-4af5-ad8b-b1eaf71d583c",
+        "name": "ΠΡΟΠΟ",
+        "prodId": "16b37da9-d5f2-4b6e-8fec-601c334273d9",
+        "productName": "ΠΡΟΓΝ. ΠΟΔΟΣΦΑΙΡΟΥ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 13
+      },
+      {
+        "id": "da348fab-92a4-4ec9-864e-ce9f5a3df5ef",
+        "name": "ΠΡΟΠΟΓΚΟΛ",
+        "prodId": "16b37da9-d5f2-4b6e-8fec-601c334273d9",
+        "productName": "ΠΡΟΓΝ. ΠΟΔΟΣΦΑΙΡΟΥ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 37
+      }
+    ]
+  },
+  {
+    "id": "9291ec01-741f-40cb-be54-487e6fdd21af",
+    "posId": 42,
+    "posType": "Bingo",
+    "legalName": "Norman Townsend ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "quis",
+      "nulla",
+      "quis",
+      "irure",
+      "fugiat"
+    ],
+    "address": {
+      "city": "Snyderville",
+      "address": "958 Lincoln Place",
+      "postalCode": 12192
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        37.94708443,
+        23.80022561
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "0e9a5792-c590-4cf9-bcc2-5058a5415971",
+        "name": "ΤΖΟΚΕΡ",
+        "prodId": "6b7f9b52-557a-4ed9-8228-a1c3f9eefabc",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 75
+      },
+      {
+        "id": "5b13a6a2-b9ab-46ee-a696-02c985d9c740",
+        "name": "ΚΙΝΟ",
+        "prodId": "6b7f9b52-557a-4ed9-8228-a1c3f9eefabc",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 7
+      },
+      {
+        "id": "9cec30e9-2d15-42ae-abf9-63e20af08310",
+        "name": "ΣΤΟΙΧΗΜΑ",
+        "prodId": "6b7f9b52-557a-4ed9-8228-a1c3f9eefabc",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 78
+      },
+      {
+        "id": "06a8cace-0580-4a48-a274-2a6626791d09",
+        "name": "EXTRA 5",
+        "prodId": "6b7f9b52-557a-4ed9-8228-a1c3f9eefabc",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 28
+      },
+      {
+        "id": "48e6be97-7f24-49b4-bf6c-d317280f8710",
+        "name": "SUPER 3",
+        "prodId": "6b7f9b52-557a-4ed9-8228-a1c3f9eefabc",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 87
+      }
+    ]
+  },
+  {
+    "id": "15fb0952-009a-4120-aa3b-e5addae5b5c7",
+    "posId": 43,
+    "posType": "Bingo",
+    "legalName": "Lamb Gay ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "pariatur",
+      "id",
+      "Lorem",
+      "velit",
+      "pariatur"
+    ],
+    "address": {
+      "city": "Carbonville",
+      "address": "453 Vandervoort Avenue",
+      "postalCode": 61445
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        37.94214536,
+        23.71641764
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "53d7d3a9-f7aa-489a-b80c-283694ec59b6",
+        "name": "ΠΡΟΠΟ",
+        "prodId": "0b039535-42fb-4643-b333-fd9b86c6b6fe",
+        "productName": "ΠΡΟΓΝ. ΠΟΔΟΣΦΑΙΡΟΥ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 28
+      },
+      {
+        "id": "e33ccd2a-d57f-4883-87f3-83769533dca2",
+        "name": "ΠΡΟΠΟΓΚΟΛ",
+        "prodId": "0b039535-42fb-4643-b333-fd9b86c6b6fe",
+        "productName": "ΠΡΟΓΝ. ΠΟΔΟΣΦΑΙΡΟΥ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 53
+      }
+    ]
+  },
+  {
+    "id": "b7ac4dcf-8efa-4732-b48f-4d441cebc2b8",
+    "posId": 44,
+    "posType": "HL",
+    "legalName": "Larsen Molina ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "et",
+      "deserunt",
+      "laboris",
+      "ut",
+      "ex"
+    ],
+    "address": {
+      "city": "Vandiver",
+      "address": "468 Fiske Place",
+      "postalCode": 55548
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        38.0329167,
+        23.75154181
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "50489209-58d5-4141-8f18-be232c4ad93f",
+        "name": "ΤΖΟΚΕΡ",
+        "prodId": "e0880465-1137-4ca9-aa09-3d6170a4066f",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 68
+      },
+      {
+        "id": "f7c11eb8-7ebe-4623-ac3a-e4dae1ae5f7f",
+        "name": "ΚΙΝΟ",
+        "prodId": "e0880465-1137-4ca9-aa09-3d6170a4066f",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 28
+      },
+      {
+        "id": "1e776529-5282-473f-a4a7-eb8d1f103c9e",
+        "name": "ΣΤΟΙΧΗΜΑ",
+        "prodId": "e0880465-1137-4ca9-aa09-3d6170a4066f",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 93
+      },
+      {
+        "id": "3128c2ec-8ca1-4b3e-939c-0c572bd0eb69",
+        "name": "EXTRA 5",
+        "prodId": "e0880465-1137-4ca9-aa09-3d6170a4066f",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 45
+      },
+      {
+        "id": "fc8a0296-02f0-49d3-9187-28739fda1f69",
+        "name": "SUPER 3",
+        "prodId": "e0880465-1137-4ca9-aa09-3d6170a4066f",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 88
+      }
+    ]
+  },
+  {
+    "id": "efaab03b-514a-4a9c-a85c-fd9120b09b2d",
+    "posId": 45,
+    "posType": "Bingo",
+    "legalName": "Yvonne Owen ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "id",
+      "velit",
+      "commodo",
+      "magna",
+      "incididunt"
+    ],
+    "address": {
+      "city": "Croom",
+      "address": "602 Boynton Place",
+      "postalCode": 78910
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        38.10068018,
+        23.8279394
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "a3c4f996-104f-4771-989c-b3e5ae29b07c",
+        "name": "ΣΤΟ ΠΡΑΚΤΟΡΕΙΟ",
+        "prodId": "0c3a89d7-13e6-4d3d-8e16-a806be54279e",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 86
+      },
+      {
+        "id": "7a1e753d-69a4-4cdc-8e8c-939e191347de",
+        "name": "ONLINE",
+        "prodId": "0c3a89d7-13e6-4d3d-8e16-a806be54279e",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 24
+      },
+      {
+        "id": "0c4732ee-e5e4-4356-8b19-08aea069a009",
+        "name": "OPAPBET",
+        "prodId": "0c3a89d7-13e6-4d3d-8e16-a806be54279e",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 81
+      },
+      {
+        "id": "2f3d1145-ff4c-47f8-a81d-ee10fec4630e",
+        "name": "RACES",
+        "prodId": "0c3a89d7-13e6-4d3d-8e16-a806be54279e",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 77
+      }
+    ]
+  },
+  {
+    "id": "dae0a640-6390-475c-92f3-5ed72f09472a",
+    "posId": 46,
+    "posType": "Bingo",
+    "legalName": "Conley Underwood ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "duis",
+      "ad",
+      "nisi",
+      "deserunt",
+      "eiusmod"
+    ],
+    "address": {
+      "city": "Foxworth",
+      "address": "808 Autumn Avenue",
+      "postalCode": 77271
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        38.05130653,
+        23.81472551
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "7d1e8ef7-b62e-47ee-8eea-b2016d43de23",
+        "name": "ΠΡΟΠΟ",
+        "prodId": "260999c1-f4c6-4b5c-9073-a79ecf0a7d8b",
+        "productName": "ΠΡΟΓΝ. ΠΟΔΟΣΦΑΙΡΟΥ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 100
+      },
+      {
+        "id": "562864e8-aa11-4ce4-aaca-995d8e028aed",
+        "name": "ΠΡΟΠΟΓΚΟΛ",
+        "prodId": "260999c1-f4c6-4b5c-9073-a79ecf0a7d8b",
+        "productName": "ΠΡΟΓΝ. ΠΟΔΟΣΦΑΙΡΟΥ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 18
+      }
+    ]
+  },
+  {
+    "id": "d576ff12-369c-4bc9-ac63-24e6f15b6861",
+    "posId": 47,
+    "posType": "HL",
+    "legalName": "Rutledge Bonner ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "irure",
+      "amet",
+      "tempor",
+      "tempor",
+      "dolore"
+    ],
+    "address": {
+      "city": "Elbert",
+      "address": "253 Moore Street",
+      "postalCode": 68896
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        38.06625648,
+        23.74580215
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "1c0ee89f-c989-4d8c-912f-b4bf34bd5d9e",
+        "name": "ΤΖΟΚΕΡ",
+        "prodId": "53291d59-ba98-4064-af66-52646afadea2",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 97
+      },
+      {
+        "id": "b701cee7-92ea-4321-bef9-75d77789f101",
+        "name": "ΚΙΝΟ",
+        "prodId": "53291d59-ba98-4064-af66-52646afadea2",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 51
+      },
+      {
+        "id": "d124effe-7883-4287-9679-8ca41de6a7e6",
+        "name": "ΣΤΟΙΧΗΜΑ",
+        "prodId": "53291d59-ba98-4064-af66-52646afadea2",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 32
+      },
+      {
+        "id": "3c49b344-f6bd-494e-afd9-adc59e8c66a4",
+        "name": "EXTRA 5",
+        "prodId": "53291d59-ba98-4064-af66-52646afadea2",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 91
+      },
+      {
+        "id": "80a62061-3923-4650-816f-ea1414f26397",
+        "name": "SUPER 3",
+        "prodId": "53291d59-ba98-4064-af66-52646afadea2",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 88
+      }
+    ]
+  },
+  {
+    "id": "1a92ae0c-9b96-481f-9cc0-19f9ffa7f5ac",
+    "posId": 48,
+    "posType": "Bingo",
+    "legalName": "Nunez Cobb ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "irure",
+      "minim",
+      "do",
+      "excepteur",
+      "anim"
+    ],
+    "address": {
+      "city": "Graniteville",
+      "address": "412 Bay Parkway",
+      "postalCode": 45865
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        37.93932658,
+        23.67501661
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "af8e76b4-80eb-41f9-becf-5c06653bd649",
+        "name": "ΣΤΟ ΠΡΑΚΤΟΡΕΙΟ",
+        "prodId": "c894410b-692f-4c2e-8690-b3a89399e003",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 6
+      },
+      {
+        "id": "53d6d778-86be-4795-a717-25ead8225173",
+        "name": "ONLINE",
+        "prodId": "c894410b-692f-4c2e-8690-b3a89399e003",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 55
+      },
+      {
+        "id": "ce7fd7f2-229f-48ba-b6e7-c347c0e8c385",
+        "name": "OPAPBET",
+        "prodId": "c894410b-692f-4c2e-8690-b3a89399e003",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 67
+      },
+      {
+        "id": "35d92309-c79e-4703-a676-e9c53767d74a",
+        "name": "RACES",
+        "prodId": "c894410b-692f-4c2e-8690-b3a89399e003",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 22
+      }
+    ]
+  },
+  {
+    "id": "a9273675-fe62-438c-ae83-3f51a23b3621",
+    "posId": 49,
+    "posType": "LuckyGames",
+    "legalName": "Herman Witt ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "adipisicing",
+      "ex",
+      "consequat",
+      "fugiat",
+      "ullamco"
+    ],
+    "address": {
+      "city": "Chesapeake",
+      "address": "235 Elm Avenue",
+      "postalCode": 51806
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        37.98173783,
+        23.79397345
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "7e58359f-7dab-4461-9a38-6b86bf3f2d42",
+        "name": "ΠΡΟΠΟ",
+        "prodId": "c1d769b9-3a43-4d20-854e-b905a3acfab4",
+        "productName": "ΠΡΟΓΝ. ΠΟΔΟΣΦΑΙΡΟΥ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 2
+      },
+      {
+        "id": "178b7a2c-9aea-4738-af7d-b875c9e36f1f",
+        "name": "ΠΡΟΠΟΓΚΟΛ",
+        "prodId": "c1d769b9-3a43-4d20-854e-b905a3acfab4",
+        "productName": "ΠΡΟΓΝ. ΠΟΔΟΣΦΑΙΡΟΥ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 8
+      }
+    ]
+  },
+  {
+    "id": "65803463-1f26-479f-b9ef-98c8c60f78ee",
+    "posId": 50,
+    "posType": "HL",
+    "legalName": "Evans Harding ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "laboris",
+      "laborum",
+      "eu",
+      "voluptate",
+      "anim"
+    ],
+    "address": {
+      "city": "Tooleville",
+      "address": "884 Pacific Street",
+      "postalCode": 91859
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        38.07834231,
+        23.66852045
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "7d7a7784-0d77-4db5-8bc5-91af4c2435b6",
+        "name": "ΠΡΟΠΟ",
+        "prodId": "3cb3c549-a7c7-43fa-ba4b-a447ac355532",
+        "productName": "ΠΡΟΓΝ. ΠΟΔΟΣΦΑΙΡΟΥ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 65
+      },
+      {
+        "id": "e50228cb-82ae-475a-8773-4510b9d80a12",
+        "name": "ΠΡΟΠΟΓΚΟΛ",
+        "prodId": "3cb3c549-a7c7-43fa-ba4b-a447ac355532",
+        "productName": "ΠΡΟΓΝ. ΠΟΔΟΣΦΑΙΡΟΥ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 64
+      }
+    ]
+  },
+  {
+    "id": "34f0b845-1b9c-4d9e-9311-aa004f95c2a4",
+    "posId": 51,
+    "posType": "HL",
+    "legalName": "Cecelia Potts ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "cupidatat",
+      "deserunt",
+      "adipisicing",
+      "non",
+      "fugiat"
+    ],
+    "address": {
+      "city": "Axis",
+      "address": "162 Batchelder Street",
+      "postalCode": 62249
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        38.06971573,
+        23.84116412
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "b8e09295-dfd8-4dc6-a48d-95faf2c6505c",
+        "name": "ΤΖΟΚΕΡ",
+        "prodId": "84aeefa8-de4d-41a7-bcc6-83b3afae5d95",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 68
+      },
+      {
+        "id": "a3d56771-5205-4918-a583-db3a5738521d",
+        "name": "ΚΙΝΟ",
+        "prodId": "84aeefa8-de4d-41a7-bcc6-83b3afae5d95",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 38
+      },
+      {
+        "id": "7a26d969-8505-4f5a-8c9b-6abf705847c1",
+        "name": "ΣΤΟΙΧΗΜΑ",
+        "prodId": "84aeefa8-de4d-41a7-bcc6-83b3afae5d95",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 90
+      },
+      {
+        "id": "72e67ee2-ea61-416e-aa18-66d71f90d2b1",
+        "name": "EXTRA 5",
+        "prodId": "84aeefa8-de4d-41a7-bcc6-83b3afae5d95",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 46
+      },
+      {
+        "id": "f7bd7177-0aed-4e66-8ba2-565e87d1b8ab",
+        "name": "SUPER 3",
+        "prodId": "84aeefa8-de4d-41a7-bcc6-83b3afae5d95",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 76
+      }
+    ]
+  },
+  {
+    "id": "297c2bb6-eeed-492c-a68d-c1956e07e9f1",
+    "posId": 52,
+    "posType": "Bingo",
+    "legalName": "Beverly Farley ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "mollit",
+      "ex",
+      "nisi",
+      "est",
+      "ut"
+    ],
+    "address": {
+      "city": "Goldfield",
+      "address": "540 Remsen Street",
+      "postalCode": 72981
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        38.02882129,
+        23.69051644
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "1cc8a20e-3cda-42e5-a36d-d6767e241e2f",
+        "name": "ΣΤΟ ΠΡΑΚΤΟΡΕΙΟ",
+        "prodId": "21661cc7-4e99-43bd-8e6c-c40c78315702",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 5
+      },
+      {
+        "id": "6df8a42f-9c7f-43c0-ac5d-af642a1156d3",
+        "name": "ONLINE",
+        "prodId": "21661cc7-4e99-43bd-8e6c-c40c78315702",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 90
+      },
+      {
+        "id": "c4e10281-2e9a-43f8-9acc-5444a0e1b4cf",
+        "name": "OPAPBET",
+        "prodId": "21661cc7-4e99-43bd-8e6c-c40c78315702",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 68
+      },
+      {
+        "id": "1a0246ea-bdfc-4a1f-be42-c12dba12bd0c",
+        "name": "RACES",
+        "prodId": "21661cc7-4e99-43bd-8e6c-c40c78315702",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 19
+      }
+    ]
+  },
+  {
+    "id": "7dca3577-372b-4d56-9baa-909e98156b36",
+    "posId": 53,
+    "posType": "HL",
+    "legalName": "Gladys Holland ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "ut",
+      "sunt",
+      "ea",
+      "sit",
+      "commodo"
+    ],
+    "address": {
+      "city": "Coultervillle",
+      "address": "980 Williams Court",
+      "postalCode": 63308
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        37.94354644,
+        23.83451562
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "1a263275-91aa-414e-961a-120a14a738b6",
+        "name": "ΠΡΟΠΟ",
+        "prodId": "4368e4cd-b2b5-4408-9993-ecebd5ab4afb",
+        "productName": "ΠΡΟΓΝ. ΠΟΔΟΣΦΑΙΡΟΥ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 19
+      },
+      {
+        "id": "4116f7d1-91a7-415d-aa88-396f0f0ba7b5",
+        "name": "ΠΡΟΠΟΓΚΟΛ",
+        "prodId": "4368e4cd-b2b5-4408-9993-ecebd5ab4afb",
+        "productName": "ΠΡΟΓΝ. ΠΟΔΟΣΦΑΙΡΟΥ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 16
+      }
+    ]
+  },
+  {
+    "id": "e9119836-213f-4c42-8a53-c82fd7ecc20b",
+    "posId": 54,
+    "posType": "LuckyGames",
+    "legalName": "Minerva Kim ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "nulla",
+      "exercitation",
+      "eu",
+      "laborum",
+      "duis"
+    ],
+    "address": {
+      "city": "Robinson",
+      "address": "506 Court Street",
+      "postalCode": 16810
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        38.05844958,
+        23.8146829
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "9174a506-edac-43ce-bf3d-485e6d00b10e",
+        "name": "ΤΖΟΚΕΡ",
+        "prodId": "82b28201-97e6-4f30-afb6-0e5316be1325",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 71
+      },
+      {
+        "id": "14ea0272-ee0b-4691-8586-f715ab402f9d",
+        "name": "ΚΙΝΟ",
+        "prodId": "82b28201-97e6-4f30-afb6-0e5316be1325",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 0
+      },
+      {
+        "id": "7eb9398e-0f37-4d60-bbf8-bdf7d4a4bd57",
+        "name": "ΣΤΟΙΧΗΜΑ",
+        "prodId": "82b28201-97e6-4f30-afb6-0e5316be1325",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 78
+      },
+      {
+        "id": "77a657b2-9c64-4248-867e-2c73c285e25b",
+        "name": "EXTRA 5",
+        "prodId": "82b28201-97e6-4f30-afb6-0e5316be1325",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 94
+      },
+      {
+        "id": "ade64f53-08fb-4821-9079-421e0424a915",
+        "name": "SUPER 3",
+        "prodId": "82b28201-97e6-4f30-afb6-0e5316be1325",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 33
+      }
+    ]
+  },
+  {
+    "id": "3d010872-67d7-46f6-8e2a-811b9291faac",
+    "posId": 55,
+    "posType": "LuckyGames",
+    "legalName": "Gallegos Duran ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "mollit",
+      "minim",
+      "elit",
+      "nostrud",
+      "voluptate"
+    ],
+    "address": {
+      "city": "Joes",
+      "address": "107 Vanderveer Street",
+      "postalCode": 11210
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        38.06870958,
+        23.6733302
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "48c0ab14-a8ac-4bf6-af2e-120aca2cc58d",
+        "name": "ΠΡΟΠΟ",
+        "prodId": "1cc26533-fabf-492d-9baf-de0d8ab3fc3d",
+        "productName": "ΠΡΟΓΝ. ΠΟΔΟΣΦΑΙΡΟΥ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 70
+      },
+      {
+        "id": "30baa4eb-9c91-414a-883b-073cc5073cf9",
+        "name": "ΠΡΟΠΟΓΚΟΛ",
+        "prodId": "1cc26533-fabf-492d-9baf-de0d8ab3fc3d",
+        "productName": "ΠΡΟΓΝ. ΠΟΔΟΣΦΑΙΡΟΥ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 58
+      }
+    ]
+  },
+  {
+    "id": "852e0b13-5660-4fb0-98c8-16d7ec217bf3",
+    "posId": 56,
+    "posType": "LuckyGames",
+    "legalName": "Maxine Clay ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "cillum",
+      "enim",
+      "eiusmod",
+      "anim",
+      "laborum"
+    ],
+    "address": {
+      "city": "Manila",
+      "address": "843 Calyer Street",
+      "postalCode": 31927
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        37.95367979,
+        23.69440837
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "43f04d20-84dc-4f05-91e3-8bc2f5e9c3ed",
+        "name": "ΣΤΟ ΠΡΑΚΤΟΡΕΙΟ",
+        "prodId": "42618b32-1151-4067-84b4-22c43bd31210",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 89
+      },
+      {
+        "id": "f78ec96b-1765-495d-8cf5-149d35e26409",
+        "name": "ONLINE",
+        "prodId": "42618b32-1151-4067-84b4-22c43bd31210",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 74
+      },
+      {
+        "id": "71a4d954-c451-4a0f-a6f7-d520412a3bdd",
+        "name": "OPAPBET",
+        "prodId": "42618b32-1151-4067-84b4-22c43bd31210",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 53
+      },
+      {
+        "id": "85e3306d-7001-412e-b42a-25bb83a3b906",
+        "name": "RACES",
+        "prodId": "42618b32-1151-4067-84b4-22c43bd31210",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 17
+      }
+    ]
+  },
+  {
+    "id": "a194f360-474f-438f-83a3-767ff6978d7c",
+    "posId": 57,
+    "posType": "Bingo",
+    "legalName": "Ingram Hurley ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "nulla",
+      "reprehenderit",
+      "sunt",
+      "labore",
+      "irure"
+    ],
+    "address": {
+      "city": "Woodlake",
+      "address": "503 Montauk Avenue",
+      "postalCode": 59500
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        37.96882065,
+        23.70618164
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "f8d18530-421b-4bf5-9f1f-0623894e746b",
+        "name": "ΠΡΟΠΟ",
+        "prodId": "71b7994b-7ace-49c9-ba4a-96750f743dd4",
+        "productName": "ΠΡΟΓΝ. ΠΟΔΟΣΦΑΙΡΟΥ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 87
+      },
+      {
+        "id": "c8c9fc37-97a0-41c6-a1ad-5fbccd2c9f9d",
+        "name": "ΠΡΟΠΟΓΚΟΛ",
+        "prodId": "71b7994b-7ace-49c9-ba4a-96750f743dd4",
+        "productName": "ΠΡΟΓΝ. ΠΟΔΟΣΦΑΙΡΟΥ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 17
+      }
+    ]
+  },
+  {
+    "id": "8b68a459-cc4e-4a36-ae09-4e32766af988",
+    "posId": 58,
+    "posType": "HL",
+    "legalName": "Janna Galloway ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "velit",
+      "in",
+      "nisi",
+      "velit",
+      "do"
+    ],
+    "address": {
+      "city": "Stewart",
+      "address": "861 Sands Street",
+      "postalCode": 67483
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        38.02299734,
+        23.75421365
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "104f8426-f39e-4136-8fa2-ee4e1951aceb",
+        "name": "ΤΖΟΚΕΡ",
+        "prodId": "486a13e5-5d52-473f-8c48-7bd02ca29164",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 35
+      },
+      {
+        "id": "93723d5f-e20f-45b6-9b3b-dc057f9532d3",
+        "name": "ΚΙΝΟ",
+        "prodId": "486a13e5-5d52-473f-8c48-7bd02ca29164",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 91
+      },
+      {
+        "id": "8f3f5915-5686-4eb6-b6e4-46b8cd884bf0",
+        "name": "ΣΤΟΙΧΗΜΑ",
+        "prodId": "486a13e5-5d52-473f-8c48-7bd02ca29164",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 15
+      },
+      {
+        "id": "f59530fc-7e05-4267-aefc-2d3fc1acdda9",
+        "name": "EXTRA 5",
+        "prodId": "486a13e5-5d52-473f-8c48-7bd02ca29164",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 60
+      },
+      {
+        "id": "27ba46fa-5fd1-43ff-b208-b45a8ef6423f",
+        "name": "SUPER 3",
+        "prodId": "486a13e5-5d52-473f-8c48-7bd02ca29164",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 97
+      }
+    ]
+  },
+  {
+    "id": "4163285f-73ac-4c6f-847c-bfdab997b216",
+    "posId": 59,
+    "posType": "HL",
+    "legalName": "Maggie Case ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "adipisicing",
+      "irure",
+      "est",
+      "duis",
+      "sunt"
+    ],
+    "address": {
+      "city": "Hebron",
+      "address": "542 Rodney Street",
+      "postalCode": 88061
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        38.05201546,
+        23.76647959
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "eec719c4-bcf4-4866-a499-d13cca9dcca7",
+        "name": "ΤΖΟΚΕΡ",
+        "prodId": "cdc1469c-0870-48ab-a882-3d554787b064",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 63
+      },
+      {
+        "id": "f5d4db7f-d661-4941-9483-7dc9d6fa8702",
+        "name": "ΚΙΝΟ",
+        "prodId": "cdc1469c-0870-48ab-a882-3d554787b064",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 86
+      },
+      {
+        "id": "228813c2-dcd4-49aa-b9eb-36b6a0c86524",
+        "name": "ΣΤΟΙΧΗΜΑ",
+        "prodId": "cdc1469c-0870-48ab-a882-3d554787b064",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 84
+      },
+      {
+        "id": "2f8ceced-03d6-405f-b8d7-d52621badaa9",
+        "name": "EXTRA 5",
+        "prodId": "cdc1469c-0870-48ab-a882-3d554787b064",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 97
+      },
+      {
+        "id": "e6a3fc98-2209-47c8-b99f-e366763b84db",
+        "name": "SUPER 3",
+        "prodId": "cdc1469c-0870-48ab-a882-3d554787b064",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 94
+      }
+    ]
+  },
+  {
+    "id": "58b8a48d-1965-43da-896b-82eae6a98e7f",
+    "posId": 60,
+    "posType": "LuckyGames",
+    "legalName": "Maritza Cooper ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "deserunt",
+      "nisi",
+      "adipisicing",
+      "dolor",
+      "officia"
+    ],
+    "address": {
+      "city": "Columbus",
+      "address": "836 Lombardy Street",
+      "postalCode": 44906
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        38.0530474,
+        23.81426392
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "5ad8e3b7-6697-4cec-9a2b-aadeb3b2ef73",
+        "name": "ΠΡΟΠΟ",
+        "prodId": "efeee0bd-b0ec-45eb-90cb-5c2cc1cd7727",
+        "productName": "ΠΡΟΓΝ. ΠΟΔΟΣΦΑΙΡΟΥ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 58
+      },
+      {
+        "id": "a07a86d5-5d0f-4928-b0af-edfa0673b39f",
+        "name": "ΠΡΟΠΟΓΚΟΛ",
+        "prodId": "efeee0bd-b0ec-45eb-90cb-5c2cc1cd7727",
+        "productName": "ΠΡΟΓΝ. ΠΟΔΟΣΦΑΙΡΟΥ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 50
+      }
+    ]
+  },
+  {
+    "id": "95678a7b-8958-425e-8c7c-85750287d67c",
+    "posId": 61,
+    "posType": "LuckyGames",
+    "legalName": "Maureen Orr ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "nisi",
+      "dolore",
+      "nisi",
+      "laboris",
+      "occaecat"
+    ],
+    "address": {
+      "city": "Townsend",
+      "address": "359 Leonard Street",
+      "postalCode": 15645
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        38.05110864,
+        23.81272185
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "2c7f8967-1ce3-47a9-8157-61a1a51c0347",
+        "name": "ΠΡΟΠΟ",
+        "prodId": "2b2079cd-7868-4d14-9d57-d5f58c6e6dec",
+        "productName": "ΠΡΟΓΝ. ΠΟΔΟΣΦΑΙΡΟΥ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 63
+      },
+      {
+        "id": "4d95314f-1261-468f-9773-76cd436c3798",
+        "name": "ΠΡΟΠΟΓΚΟΛ",
+        "prodId": "2b2079cd-7868-4d14-9d57-d5f58c6e6dec",
+        "productName": "ΠΡΟΓΝ. ΠΟΔΟΣΦΑΙΡΟΥ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 88
+      }
+    ]
+  },
+  {
+    "id": "30516ccc-126f-4fc8-b731-6b994555c5e5",
+    "posId": 62,
+    "posType": "HL",
+    "legalName": "Queen Larson ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "magna",
+      "eiusmod",
+      "nisi",
+      "incididunt",
+      "amet"
+    ],
+    "address": {
+      "city": "Rehrersburg",
+      "address": "842 Richmond Street",
+      "postalCode": 78864
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        38.03680128,
+        23.77117072
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "ae7bb83a-2ac7-49e4-90bc-43d5dbbfbb0e",
+        "name": "ΣΤΟ ΠΡΑΚΤΟΡΕΙΟ",
+        "prodId": "2f428f0b-42d2-4be6-9199-d00e3badbdae",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 28
+      },
+      {
+        "id": "fccee72e-c39c-4c6b-83ec-634effd312ac",
+        "name": "ONLINE",
+        "prodId": "2f428f0b-42d2-4be6-9199-d00e3badbdae",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 65
+      },
+      {
+        "id": "522cebd7-132a-4928-b855-021820d63c4a",
+        "name": "OPAPBET",
+        "prodId": "2f428f0b-42d2-4be6-9199-d00e3badbdae",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 0
+      },
+      {
+        "id": "8db78f46-d025-49ba-9bab-a62433470153",
+        "name": "RACES",
+        "prodId": "2f428f0b-42d2-4be6-9199-d00e3badbdae",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 54
+      }
+    ]
+  },
+  {
+    "id": "3c88b418-e425-4241-ab57-e907885abc11",
+    "posId": 63,
+    "posType": "HL",
+    "legalName": "Shields Cross ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "mollit",
+      "occaecat",
+      "aliqua",
+      "aliquip",
+      "minim"
+    ],
+    "address": {
+      "city": "Brownlee",
+      "address": "564 Karweg Place",
+      "postalCode": 18362
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        38.04589054,
+        23.8034581
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "2e70fc87-fcab-40ea-95e9-f0dcd5923723",
+        "name": "ΤΖΟΚΕΡ",
+        "prodId": "68b23f02-6165-40cd-a84a-c8feb27f798c",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 77
+      },
+      {
+        "id": "6f7e3c57-a389-4dc5-8e26-ed748244a6fe",
+        "name": "ΚΙΝΟ",
+        "prodId": "68b23f02-6165-40cd-a84a-c8feb27f798c",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 73
+      },
+      {
+        "id": "5f274a62-e913-4af3-84f4-79804f35e685",
+        "name": "ΣΤΟΙΧΗΜΑ",
+        "prodId": "68b23f02-6165-40cd-a84a-c8feb27f798c",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 24
+      },
+      {
+        "id": "19dff6b4-f11a-4da9-9f92-5b999714259b",
+        "name": "EXTRA 5",
+        "prodId": "68b23f02-6165-40cd-a84a-c8feb27f798c",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 34
+      },
+      {
+        "id": "44a061a6-eafd-41a5-ad69-b6e4335e2cd3",
+        "name": "SUPER 3",
+        "prodId": "68b23f02-6165-40cd-a84a-c8feb27f798c",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 69
+      }
+    ]
+  },
+  {
+    "id": "659c1e7c-c6cf-4bc4-9558-60783ffa3210",
+    "posId": 64,
+    "posType": "Bingo",
+    "legalName": "Marquez Castillo ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "incididunt",
+      "et",
+      "mollit",
+      "exercitation",
+      "aute"
+    ],
+    "address": {
+      "city": "Trona",
+      "address": "628 Atlantic Avenue",
+      "postalCode": 66046
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        38.0232456,
+        23.73606972
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "a5f27d76-787c-49ba-9ac8-a8c5e02f370d",
+        "name": "ΠΡΟΠΟ",
+        "prodId": "f6810b21-b9dc-4cfd-9475-2d532eef411f",
+        "productName": "ΠΡΟΓΝ. ΠΟΔΟΣΦΑΙΡΟΥ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 75
+      },
+      {
+        "id": "c41f5526-9101-46a7-8c6a-332f25ef6f0b",
+        "name": "ΠΡΟΠΟΓΚΟΛ",
+        "prodId": "f6810b21-b9dc-4cfd-9475-2d532eef411f",
+        "productName": "ΠΡΟΓΝ. ΠΟΔΟΣΦΑΙΡΟΥ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 87
+      }
+    ]
+  },
+  {
+    "id": "febc6aed-b210-453c-a3c5-0f482824c345",
+    "posId": 65,
+    "posType": "LuckyGames",
+    "legalName": "Burks Meyer ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "est",
+      "irure",
+      "officia",
+      "ea",
+      "deserunt"
+    ],
+    "address": {
+      "city": "Hendersonville",
+      "address": "137 Irving Avenue",
+      "postalCode": 26439
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        38.09914347,
+        23.69716117
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "031ccd64-e63b-4444-a11e-39081d91873e",
+        "name": "ΤΖΟΚΕΡ",
+        "prodId": "fc8a4625-2b7b-456e-84e1-3189ba670bdc",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 19
+      },
+      {
+        "id": "42941623-48d2-4633-9bd9-397345de14a0",
+        "name": "ΚΙΝΟ",
+        "prodId": "fc8a4625-2b7b-456e-84e1-3189ba670bdc",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 84
+      },
+      {
+        "id": "bf4f0524-4705-4133-8f15-06c7accc1484",
+        "name": "ΣΤΟΙΧΗΜΑ",
+        "prodId": "fc8a4625-2b7b-456e-84e1-3189ba670bdc",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 47
+      },
+      {
+        "id": "2aa929b8-a735-4a6b-b02c-d61620e53283",
+        "name": "EXTRA 5",
+        "prodId": "fc8a4625-2b7b-456e-84e1-3189ba670bdc",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 73
+      },
+      {
+        "id": "8d2e367a-be86-49af-ac4b-c40bae98490a",
+        "name": "SUPER 3",
+        "prodId": "fc8a4625-2b7b-456e-84e1-3189ba670bdc",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 60
+      }
+    ]
+  },
+  {
+    "id": "7e5e5ffb-fca5-4a61-bcaa-8f1395508bcb",
+    "posId": 66,
+    "posType": "HL",
+    "legalName": "Mayra Romero ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "incididunt",
+      "deserunt",
+      "laboris",
+      "nulla",
+      "ipsum"
+    ],
+    "address": {
+      "city": "Clarksburg",
+      "address": "298 Guider Avenue",
+      "postalCode": 61103
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        37.94073313,
+        23.68985845
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "efee6c0b-0065-4749-a0a0-2ff4aa8cb470",
+        "name": "ΣΤΟ ΠΡΑΚΤΟΡΕΙΟ",
+        "prodId": "4ef44cd7-aa65-4501-b9b6-53c3f15e7b32",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 53
+      },
+      {
+        "id": "b94f9c2c-fb70-458d-98f9-51b177e0f733",
+        "name": "ONLINE",
+        "prodId": "4ef44cd7-aa65-4501-b9b6-53c3f15e7b32",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 61
+      },
+      {
+        "id": "48847ad0-4973-44d8-aba4-455f1c6a14be",
+        "name": "OPAPBET",
+        "prodId": "4ef44cd7-aa65-4501-b9b6-53c3f15e7b32",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 27
+      },
+      {
+        "id": "6c67dc03-725c-4cda-ab0a-1ebd1ed898cf",
+        "name": "RACES",
+        "prodId": "4ef44cd7-aa65-4501-b9b6-53c3f15e7b32",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 63
+      }
+    ]
+  },
+  {
+    "id": "e87a1679-7eb1-4f76-9dd1-62a6366484eb",
+    "posId": 67,
+    "posType": "HL",
+    "legalName": "Annmarie Franklin ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "consectetur",
+      "amet",
+      "nisi",
+      "labore",
+      "ex"
+    ],
+    "address": {
+      "city": "Allentown",
+      "address": "232 Ellery Street",
+      "postalCode": 15076
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        37.98860522,
+        23.78253508
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "dfdcf20b-977e-4225-a7a5-dffd74eb00ea",
+        "name": "ΤΖΟΚΕΡ",
+        "prodId": "eb409904-e8cb-4aa7-acd1-8a23fd72cb40",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 79
+      },
+      {
+        "id": "72ad78c1-4a29-4ed3-8163-0aaa40605fb7",
+        "name": "ΚΙΝΟ",
+        "prodId": "eb409904-e8cb-4aa7-acd1-8a23fd72cb40",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 44
+      },
+      {
+        "id": "b4fb5de8-6b6d-4431-876c-111e7e55478d",
+        "name": "ΣΤΟΙΧΗΜΑ",
+        "prodId": "eb409904-e8cb-4aa7-acd1-8a23fd72cb40",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 59
+      },
+      {
+        "id": "7e617dfa-ea4a-4622-b787-85532e3ba706",
+        "name": "EXTRA 5",
+        "prodId": "eb409904-e8cb-4aa7-acd1-8a23fd72cb40",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 55
+      },
+      {
+        "id": "a8b97ba3-ef14-4e07-9e41-0325327758b3",
+        "name": "SUPER 3",
+        "prodId": "eb409904-e8cb-4aa7-acd1-8a23fd72cb40",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 54
+      }
+    ]
+  },
+  {
+    "id": "810c359f-b4e1-4f95-8922-7986783fc1f4",
+    "posId": 68,
+    "posType": "Bingo",
+    "legalName": "Bonnie Cain ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "sunt",
+      "proident",
+      "eu",
+      "pariatur",
+      "do"
+    ],
+    "address": {
+      "city": "Wawona",
+      "address": "467 Monument Walk",
+      "postalCode": 18210
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        38.0751373,
+        23.69986485
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "5b44e16f-4f04-4ed5-b1c4-3307e1d23f9c",
+        "name": "ΠΡΟΠΟ",
+        "prodId": "8a1958d0-2bcc-4067-aea9-0a0932d8eeb0",
+        "productName": "ΠΡΟΓΝ. ΠΟΔΟΣΦΑΙΡΟΥ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 79
+      },
+      {
+        "id": "a3d71a57-58e0-4530-be51-d39a747cf4b5",
+        "name": "ΠΡΟΠΟΓΚΟΛ",
+        "prodId": "8a1958d0-2bcc-4067-aea9-0a0932d8eeb0",
+        "productName": "ΠΡΟΓΝ. ΠΟΔΟΣΦΑΙΡΟΥ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 70
+      }
+    ]
+  },
+  {
+    "id": "7e217846-7d45-4dd0-9712-dde58a2f3eb6",
+    "posId": 69,
+    "posType": "LuckyGames",
+    "legalName": "Cortez Wong ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "irure",
+      "est",
+      "eu",
+      "aute",
+      "minim"
+    ],
+    "address": {
+      "city": "Homeworth",
+      "address": "589 Allen Avenue",
+      "postalCode": 24115
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        37.98957185,
+        23.77151019
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "12c9a72c-4fb5-4355-9973-15c68e5dd12f",
+        "name": "ΣΤΟ ΠΡΑΚΤΟΡΕΙΟ",
+        "prodId": "3b9e87d7-5b7b-4df5-b468-aa04fe786ff8",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 76
+      },
+      {
+        "id": "6d88667e-a20c-48ac-a5aa-8514569b3eef",
+        "name": "ONLINE",
+        "prodId": "3b9e87d7-5b7b-4df5-b468-aa04fe786ff8",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 35
+      },
+      {
+        "id": "af35bf06-cb96-48d7-b00a-f142eb8706c3",
+        "name": "OPAPBET",
+        "prodId": "3b9e87d7-5b7b-4df5-b468-aa04fe786ff8",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 80
+      },
+      {
+        "id": "930a8943-a990-44e7-8bc5-23728eb2faad",
+        "name": "RACES",
+        "prodId": "3b9e87d7-5b7b-4df5-b468-aa04fe786ff8",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 8
+      }
+    ]
+  },
+  {
+    "id": "f828fe97-4901-4b4f-9ddb-f48216b8c20a",
+    "posId": 70,
+    "posType": "Bingo",
+    "legalName": "Chambers Conrad ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "qui",
+      "voluptate",
+      "ullamco",
+      "aliqua",
+      "tempor"
+    ],
+    "address": {
+      "city": "Worton",
+      "address": "585 Russell Street",
+      "postalCode": 82433
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        38.00184375,
+        23.81510211
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "a41c24ab-1a45-4d4b-b30b-1ee41c2142a0",
+        "name": "ΣΤΟ ΠΡΑΚΤΟΡΕΙΟ",
+        "prodId": "a478a130-85b2-48d6-9421-742ebd4d0870",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 81
+      },
+      {
+        "id": "05d0c2bf-858c-4c96-bc03-77862ac3b8f1",
+        "name": "ONLINE",
+        "prodId": "a478a130-85b2-48d6-9421-742ebd4d0870",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 92
+      },
+      {
+        "id": "d87fef5e-ba47-465b-ac3b-33cc5e1c0c76",
+        "name": "OPAPBET",
+        "prodId": "a478a130-85b2-48d6-9421-742ebd4d0870",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 81
+      },
+      {
+        "id": "f6286a25-19c7-40f6-a19c-bc22540727b1",
+        "name": "RACES",
+        "prodId": "a478a130-85b2-48d6-9421-742ebd4d0870",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 64
+      }
+    ]
+  },
+  {
+    "id": "27008e35-7c78-4875-a1cc-5650dc314ae4",
+    "posId": 71,
+    "posType": "LuckyGames",
+    "legalName": "Kathleen Bass ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "ad",
+      "est",
+      "excepteur",
+      "magna",
+      "voluptate"
+    ],
+    "address": {
+      "city": "Ypsilanti",
+      "address": "916 Newkirk Avenue",
+      "postalCode": 98828
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        37.9651985,
+        23.72882135
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "c2455033-ea8b-4f30-934c-d12f89cca510",
+        "name": "ΤΖΟΚΕΡ",
+        "prodId": "876ff9a8-4929-4d0f-9dc6-42119b62066d",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 62
+      },
+      {
+        "id": "0d3950b7-e952-4c18-a1a0-751bc90ff2a0",
+        "name": "ΚΙΝΟ",
+        "prodId": "876ff9a8-4929-4d0f-9dc6-42119b62066d",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 84
+      },
+      {
+        "id": "13732dec-46a0-483b-9cc3-5c863ad6f282",
+        "name": "ΣΤΟΙΧΗΜΑ",
+        "prodId": "876ff9a8-4929-4d0f-9dc6-42119b62066d",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 15
+      },
+      {
+        "id": "42253e0c-22a6-4107-9948-50de19582251",
+        "name": "EXTRA 5",
+        "prodId": "876ff9a8-4929-4d0f-9dc6-42119b62066d",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 41
+      },
+      {
+        "id": "bb052022-5878-4fc9-a24e-5d81e0726d1b",
+        "name": "SUPER 3",
+        "prodId": "876ff9a8-4929-4d0f-9dc6-42119b62066d",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 56
+      }
+    ]
+  },
+  {
+    "id": "ed2cd5c1-86c7-42af-aa02-11385933c6d5",
+    "posId": 72,
+    "posType": "Bingo",
+    "legalName": "Massey Hoover ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "non",
+      "ut",
+      "aute",
+      "Lorem",
+      "ut"
+    ],
+    "address": {
+      "city": "Oberlin",
+      "address": "605 Prospect Avenue",
+      "postalCode": 52052
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        37.93867977,
+        23.78987663
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "b5798b78-0019-4fd7-864b-9007366f65b6",
+        "name": "ΤΖΟΚΕΡ",
+        "prodId": "53b61349-7919-4eab-944f-f0e41c9f6e9c",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 55
+      },
+      {
+        "id": "018eacb7-2b14-4fba-b711-c96c8107c0c9",
+        "name": "ΚΙΝΟ",
+        "prodId": "53b61349-7919-4eab-944f-f0e41c9f6e9c",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 36
+      },
+      {
+        "id": "d88b611c-26e4-489a-a430-271bbd454b34",
+        "name": "ΣΤΟΙΧΗΜΑ",
+        "prodId": "53b61349-7919-4eab-944f-f0e41c9f6e9c",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 33
+      },
+      {
+        "id": "6fb15fba-06c4-4c4b-9aed-d4d9678f740d",
+        "name": "EXTRA 5",
+        "prodId": "53b61349-7919-4eab-944f-f0e41c9f6e9c",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 77
+      },
+      {
+        "id": "f43051c1-3724-40fd-8e48-2cdc2bfcd5a0",
+        "name": "SUPER 3",
+        "prodId": "53b61349-7919-4eab-944f-f0e41c9f6e9c",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 12
+      }
+    ]
+  },
+  {
+    "id": "9785c3cb-5b25-4685-84d9-3c87d82ee7bd",
+    "posId": 73,
+    "posType": "HL",
+    "legalName": "Elma Gallagher ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "duis",
+      "aliquip",
+      "in",
+      "nisi",
+      "nisi"
+    ],
+    "address": {
+      "city": "Hailesboro",
+      "address": "134 Cedar Street",
+      "postalCode": 94086
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        38.07716143,
+        23.84104934
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "208e4aa1-f643-4ed6-9ffd-caa8a35ff4a0",
+        "name": "ΤΖΟΚΕΡ",
+        "prodId": "fcd46eaa-2312-4fff-9cf7-98fa04b43927",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 9
+      },
+      {
+        "id": "c0f365bd-f7d5-46d8-ae97-a3d47d3c6f84",
+        "name": "ΚΙΝΟ",
+        "prodId": "fcd46eaa-2312-4fff-9cf7-98fa04b43927",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 45
+      },
+      {
+        "id": "2e226cfe-2321-4e2b-b44e-08fba2678203",
+        "name": "ΣΤΟΙΧΗΜΑ",
+        "prodId": "fcd46eaa-2312-4fff-9cf7-98fa04b43927",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 72
+      },
+      {
+        "id": "7f070fe3-4309-40e6-bf0c-64bc07fed2bc",
+        "name": "EXTRA 5",
+        "prodId": "fcd46eaa-2312-4fff-9cf7-98fa04b43927",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 86
+      },
+      {
+        "id": "d85789b5-594f-4ce9-b564-33dca0211e8e",
+        "name": "SUPER 3",
+        "prodId": "fcd46eaa-2312-4fff-9cf7-98fa04b43927",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 98
+      }
+    ]
+  },
+  {
+    "id": "5b0d9693-ea19-4809-baa1-3ef65afc3081",
+    "posId": 74,
+    "posType": "HL",
+    "legalName": "Sheree Patton ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "mollit",
+      "ipsum",
+      "sint",
+      "magna",
+      "do"
+    ],
+    "address": {
+      "city": "Canoochee",
+      "address": "396 Verona Street",
+      "postalCode": 29453
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        38.08569878,
+        23.71576264
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "24b70f21-ed13-4fbb-a788-ad2a3a0fa76f",
+        "name": "ΣΤΟ ΠΡΑΚΤΟΡΕΙΟ",
+        "prodId": "d3be1917-49c1-43b2-9ef6-b4bfc9521088",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 32
+      },
+      {
+        "id": "c7b30388-e44b-4ab7-b715-3f4b437c2c3a",
+        "name": "ONLINE",
+        "prodId": "d3be1917-49c1-43b2-9ef6-b4bfc9521088",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 4
+      },
+      {
+        "id": "87183bce-7578-49a0-9586-839835a054f7",
+        "name": "OPAPBET",
+        "prodId": "d3be1917-49c1-43b2-9ef6-b4bfc9521088",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 35
+      },
+      {
+        "id": "0dabc7b7-59c8-475d-b5a5-d451e026531e",
+        "name": "RACES",
+        "prodId": "d3be1917-49c1-43b2-9ef6-b4bfc9521088",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 44
+      }
+    ]
+  },
+  {
+    "id": "bd33282f-81e8-4ffa-be1f-530577a11302",
+    "posId": 75,
+    "posType": "Bingo",
+    "legalName": "Lorrie Taylor ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "occaecat",
+      "commodo",
+      "sint",
+      "anim",
+      "adipisicing"
+    ],
+    "address": {
+      "city": "Hall",
+      "address": "637 Moore Place",
+      "postalCode": 30375
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        37.9547278,
+        23.67161212
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "13175c46-33ba-48e0-b464-34928cbd22e9",
+        "name": "ΠΡΟΠΟ",
+        "prodId": "1bf3f243-fcf1-4147-b9bf-dfd44bc2a55a",
+        "productName": "ΠΡΟΓΝ. ΠΟΔΟΣΦΑΙΡΟΥ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 55
+      },
+      {
+        "id": "921842bc-0c0a-4640-9677-5b94f254748e",
+        "name": "ΠΡΟΠΟΓΚΟΛ",
+        "prodId": "1bf3f243-fcf1-4147-b9bf-dfd44bc2a55a",
+        "productName": "ΠΡΟΓΝ. ΠΟΔΟΣΦΑΙΡΟΥ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 23
+      }
+    ]
+  },
+  {
+    "id": "ee97c749-3e87-462e-afc2-94b01277c000",
+    "posId": 76,
+    "posType": "HL",
+    "legalName": "Foley Colon ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "fugiat",
+      "voluptate",
+      "incididunt",
+      "ea",
+      "laboris"
+    ],
+    "address": {
+      "city": "Abiquiu",
+      "address": "471 Columbia Place",
+      "postalCode": 53141
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        37.98148429,
+        23.75484397
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "bb38d252-4ab8-4c39-8340-58c15ef6698f",
+        "name": "ΠΡΟΠΟ",
+        "prodId": "2d4f1b14-4782-4991-a235-ddafd92d0e33",
+        "productName": "ΠΡΟΓΝ. ΠΟΔΟΣΦΑΙΡΟΥ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 91
+      },
+      {
+        "id": "fe1b313c-f9ae-4a24-8ab4-2c0c117f6b9a",
+        "name": "ΠΡΟΠΟΓΚΟΛ",
+        "prodId": "2d4f1b14-4782-4991-a235-ddafd92d0e33",
+        "productName": "ΠΡΟΓΝ. ΠΟΔΟΣΦΑΙΡΟΥ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 27
+      }
+    ]
+  },
+  {
+    "id": "266f7c14-0f2c-4a12-9e12-744ab84d3493",
+    "posId": 77,
+    "posType": "Bingo",
+    "legalName": "Goff Stephens ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "sunt",
+      "laboris",
+      "Lorem",
+      "ullamco",
+      "irure"
+    ],
+    "address": {
+      "city": "Golconda",
+      "address": "981 Rose Street",
+      "postalCode": 80116
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        37.97203168,
+        23.7605395
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "dd5e80a7-a021-4f85-b90f-0fd1faec753b",
+        "name": "ΣΤΟ ΠΡΑΚΤΟΡΕΙΟ",
+        "prodId": "2fcc2b83-9845-4ca1-9a43-d5b47ba900d3",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 26
+      },
+      {
+        "id": "2e794c65-b250-46e9-bd8f-3c595989df92",
+        "name": "ONLINE",
+        "prodId": "2fcc2b83-9845-4ca1-9a43-d5b47ba900d3",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 22
+      },
+      {
+        "id": "44599647-47a9-427f-8e06-a04de142e7d3",
+        "name": "OPAPBET",
+        "prodId": "2fcc2b83-9845-4ca1-9a43-d5b47ba900d3",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 2
+      },
+      {
+        "id": "a921e92e-5af0-467f-874a-a771f0eb8741",
+        "name": "RACES",
+        "prodId": "2fcc2b83-9845-4ca1-9a43-d5b47ba900d3",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 75
+      }
+    ]
+  },
+  {
+    "id": "f3630330-36cc-4abc-ab07-e766f39da074",
+    "posId": 78,
+    "posType": "Bingo",
+    "legalName": "Jayne Mcclure ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "laboris",
+      "ipsum",
+      "ea",
+      "in",
+      "laboris"
+    ],
+    "address": {
+      "city": "Sedley",
+      "address": "665 Cambridge Place",
+      "postalCode": 71847
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        37.95290199,
+        23.75491017
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "fd5fce03-d031-461b-b2cf-fddf2870a739",
+        "name": "ΠΡΟΠΟ",
+        "prodId": "d002eed7-e031-4880-98d0-f3b209124936",
+        "productName": "ΠΡΟΓΝ. ΠΟΔΟΣΦΑΙΡΟΥ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 41
+      },
+      {
+        "id": "96121c93-4338-4abb-bb29-21e92bfc3edc",
+        "name": "ΠΡΟΠΟΓΚΟΛ",
+        "prodId": "d002eed7-e031-4880-98d0-f3b209124936",
+        "productName": "ΠΡΟΓΝ. ΠΟΔΟΣΦΑΙΡΟΥ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 46
+      }
+    ]
+  },
+  {
+    "id": "16fa9f3f-450b-4dc8-a4e3-263a82e5b5be",
+    "posId": 79,
+    "posType": "HL",
+    "legalName": "Jody Hewitt ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "do",
+      "proident",
+      "irure",
+      "velit",
+      "dolore"
+    ],
+    "address": {
+      "city": "Falconaire",
+      "address": "886 Hoyt Street",
+      "postalCode": 65725
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        38.02475237,
+        23.77561512
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "63055fc0-d050-41c8-a36b-40ec8855ff48",
+        "name": "ΤΖΟΚΕΡ",
+        "prodId": "59d2479b-dac5-4084-ab0b-2e39a83b0c94",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 84
+      },
+      {
+        "id": "ecfbf088-d7cb-4237-8f47-0927471f2849",
+        "name": "ΚΙΝΟ",
+        "prodId": "59d2479b-dac5-4084-ab0b-2e39a83b0c94",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 34
+      },
+      {
+        "id": "bb35a13b-a7cb-4c8b-968a-13192cf76cb0",
+        "name": "ΣΤΟΙΧΗΜΑ",
+        "prodId": "59d2479b-dac5-4084-ab0b-2e39a83b0c94",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 83
+      },
+      {
+        "id": "272d00a3-ecd5-44b5-a8a1-28f154fa5ab0",
+        "name": "EXTRA 5",
+        "prodId": "59d2479b-dac5-4084-ab0b-2e39a83b0c94",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 7
+      },
+      {
+        "id": "579bb10e-b951-42fd-ac10-128ef5241ba9",
+        "name": "SUPER 3",
+        "prodId": "59d2479b-dac5-4084-ab0b-2e39a83b0c94",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 61
+      }
+    ]
+  },
+  {
+    "id": "48d326cd-419a-4a3a-8457-aa4aa78eba8b",
+    "posId": 80,
+    "posType": "Bingo",
+    "legalName": "Alisa Mcfadden ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "magna",
+      "voluptate",
+      "exercitation",
+      "est",
+      "proident"
+    ],
+    "address": {
+      "city": "Chapin",
+      "address": "928 Portal Street",
+      "postalCode": 94670
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        38.03928722,
+        23.84530739
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "f71d33b7-b270-4fdd-977a-05086befd7ea",
+        "name": "ΣΤΟ ΠΡΑΚΤΟΡΕΙΟ",
+        "prodId": "9a7963aa-7a64-47b7-8cbf-ab88e59c5725",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 59
+      },
+      {
+        "id": "e647ebee-5fb1-4015-b6f7-e2d535feed1a",
+        "name": "ONLINE",
+        "prodId": "9a7963aa-7a64-47b7-8cbf-ab88e59c5725",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 81
+      },
+      {
+        "id": "8b3ea3bd-407f-4312-8c04-64b4abfbab09",
+        "name": "OPAPBET",
+        "prodId": "9a7963aa-7a64-47b7-8cbf-ab88e59c5725",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 24
+      },
+      {
+        "id": "bc1b8b7f-034c-456a-b053-5af9606316a9",
+        "name": "RACES",
+        "prodId": "9a7963aa-7a64-47b7-8cbf-ab88e59c5725",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 23
+      }
+    ]
+  },
+  {
+    "id": "54d02305-dada-4a3b-8ace-43211c854ddc",
+    "posId": 81,
+    "posType": "LuckyGames",
+    "legalName": "Vasquez Dean ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "voluptate",
+      "laborum",
+      "dolor",
+      "reprehenderit",
+      "officia"
+    ],
+    "address": {
+      "city": "Spokane",
+      "address": "101 Bayview Place",
+      "postalCode": 34719
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        38.09812373,
+        23.75384032
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "f395c475-bdd5-42a7-97ca-b47bb3cf4469",
+        "name": "ΠΡΟΠΟ",
+        "prodId": "48c34d15-adbc-4a76-879c-166fccc9bea0",
+        "productName": "ΠΡΟΓΝ. ΠΟΔΟΣΦΑΙΡΟΥ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 4
+      },
+      {
+        "id": "7de58f1a-7f33-4684-bfd5-90828f1bfe7c",
+        "name": "ΠΡΟΠΟΓΚΟΛ",
+        "prodId": "48c34d15-adbc-4a76-879c-166fccc9bea0",
+        "productName": "ΠΡΟΓΝ. ΠΟΔΟΣΦΑΙΡΟΥ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 80
+      }
+    ]
+  },
+  {
+    "id": "952c8ac1-0878-4ccc-b369-824b056c9a46",
+    "posId": 82,
+    "posType": "HL",
+    "legalName": "Margarita Bowman ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "consectetur",
+      "sit",
+      "aute",
+      "enim",
+      "amet"
+    ],
+    "address": {
+      "city": "Fairforest",
+      "address": "428 Knickerbocker Avenue",
+      "postalCode": 10564
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        37.94610833,
+        23.83370782
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "b9d64fbe-e0f2-4173-b298-53ff8b6c17dc",
+        "name": "ΤΖΟΚΕΡ",
+        "prodId": "88121947-b09a-4fc5-9431-f0c9d7476045",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 79
+      },
+      {
+        "id": "fd1cbadb-a11c-4e53-b4f2-988c67db1bd5",
+        "name": "ΚΙΝΟ",
+        "prodId": "88121947-b09a-4fc5-9431-f0c9d7476045",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 94
+      },
+      {
+        "id": "eb04d92f-31aa-4200-ad83-fce42e2cfed3",
+        "name": "ΣΤΟΙΧΗΜΑ",
+        "prodId": "88121947-b09a-4fc5-9431-f0c9d7476045",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 75
+      },
+      {
+        "id": "dca1298f-df26-4de9-801c-aeb29a6b9b7a",
+        "name": "EXTRA 5",
+        "prodId": "88121947-b09a-4fc5-9431-f0c9d7476045",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 55
+      },
+      {
+        "id": "72ad4402-0fce-43de-a708-aea80eeb3e78",
+        "name": "SUPER 3",
+        "prodId": "88121947-b09a-4fc5-9431-f0c9d7476045",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 25
+      }
+    ]
+  },
+  {
+    "id": "96c9fd8b-0016-4760-b6dc-cb4e2ac5d55f",
+    "posId": 83,
+    "posType": "HL",
+    "legalName": "Robin Wilson ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "minim",
+      "deserunt",
+      "magna",
+      "irure",
+      "non"
+    ],
+    "address": {
+      "city": "Tyro",
+      "address": "699 Tampa Court",
+      "postalCode": 15310
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        37.94324727,
+        23.71168917
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "fa62d3f4-1df0-4d7b-ba28-033df662c23d",
+        "name": "ΠΡΟΠΟ",
+        "prodId": "8052bae2-b510-4e4d-b27e-940adf5634c6",
+        "productName": "ΠΡΟΓΝ. ΠΟΔΟΣΦΑΙΡΟΥ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 94
+      },
+      {
+        "id": "6fa7b008-faee-4501-b4e1-343cad7595c7",
+        "name": "ΠΡΟΠΟΓΚΟΛ",
+        "prodId": "8052bae2-b510-4e4d-b27e-940adf5634c6",
+        "productName": "ΠΡΟΓΝ. ΠΟΔΟΣΦΑΙΡΟΥ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 100
+      }
+    ]
+  },
+  {
+    "id": "280f6432-f1aa-4d98-8a81-876490f77eec",
+    "posId": 84,
+    "posType": "LuckyGames",
+    "legalName": "Maryann Frye ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "eu",
+      "nulla",
+      "sint",
+      "quis",
+      "qui"
+    ],
+    "address": {
+      "city": "Williamson",
+      "address": "660 Harbor Lane",
+      "postalCode": 69238
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        37.98183505,
+        23.76140624
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "89f358ae-961f-4e34-9e1a-10ec561e0887",
+        "name": "ΠΡΟΠΟ",
+        "prodId": "eba7d248-d08d-426f-8f25-40bfd2da074c",
+        "productName": "ΠΡΟΓΝ. ΠΟΔΟΣΦΑΙΡΟΥ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 6
+      },
+      {
+        "id": "07a68849-6190-4444-a7af-49f9e2c177c0",
+        "name": "ΠΡΟΠΟΓΚΟΛ",
+        "prodId": "eba7d248-d08d-426f-8f25-40bfd2da074c",
+        "productName": "ΠΡΟΓΝ. ΠΟΔΟΣΦΑΙΡΟΥ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 63
+      }
+    ]
+  },
+  {
+    "id": "443dfd9d-7af0-412c-8904-2c52a85c8c98",
+    "posId": 85,
+    "posType": "Bingo",
+    "legalName": "Patsy Tanner ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "exercitation",
+      "excepteur",
+      "incididunt",
+      "cillum",
+      "duis"
+    ],
+    "address": {
+      "city": "Nettie",
+      "address": "515 Village Court",
+      "postalCode": 58668
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        37.94267301,
+        23.72635434
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "8fb160e0-36fa-4b86-98ef-8c3a0006f462",
+        "name": "ΣΤΟ ΠΡΑΚΤΟΡΕΙΟ",
+        "prodId": "06c863a0-b1aa-4007-b035-d6d4c86842aa",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 74
+      },
+      {
+        "id": "97a11029-410d-4ec2-a6fa-1f3592e983ae",
+        "name": "ONLINE",
+        "prodId": "06c863a0-b1aa-4007-b035-d6d4c86842aa",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 83
+      },
+      {
+        "id": "a4d5717b-7286-42a4-b0a3-1c7fdb0f1d6c",
+        "name": "OPAPBET",
+        "prodId": "06c863a0-b1aa-4007-b035-d6d4c86842aa",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 31
+      },
+      {
+        "id": "bb51978f-dbdb-4d52-b494-24e943d0185a",
+        "name": "RACES",
+        "prodId": "06c863a0-b1aa-4007-b035-d6d4c86842aa",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 66
+      }
+    ]
+  },
+  {
+    "id": "fecf3b24-5c77-4e67-9f11-5bb8a545638f",
+    "posId": 86,
+    "posType": "LuckyGames",
+    "legalName": "Santana Mendoza ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "occaecat",
+      "in",
+      "officia",
+      "dolor",
+      "et"
+    ],
+    "address": {
+      "city": "Idledale",
+      "address": "316 Grand Street",
+      "postalCode": 47348
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        38.04330918,
+        23.71334128
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "1edea190-74a1-4ab7-a5ae-2cdec8b45716",
+        "name": "ΣΤΟ ΠΡΑΚΤΟΡΕΙΟ",
+        "prodId": "56a3059c-747a-4d1f-bb6b-9351168c915d",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 89
+      },
+      {
+        "id": "c1838c6e-54e4-40b6-8d1e-b2c729b0b428",
+        "name": "ONLINE",
+        "prodId": "56a3059c-747a-4d1f-bb6b-9351168c915d",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 62
+      },
+      {
+        "id": "7fd1a07e-807b-4b57-ac6c-ebb16a9e9449",
+        "name": "OPAPBET",
+        "prodId": "56a3059c-747a-4d1f-bb6b-9351168c915d",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 67
+      },
+      {
+        "id": "0fa5cf7a-334f-434c-9b35-040c421d0ee6",
+        "name": "RACES",
+        "prodId": "56a3059c-747a-4d1f-bb6b-9351168c915d",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 29
+      }
+    ]
+  },
+  {
+    "id": "16553f89-5a79-4099-a0d4-24550b82b955",
+    "posId": 87,
+    "posType": "HL",
+    "legalName": "Liz Mathews ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "aliquip",
+      "occaecat",
+      "aliquip",
+      "sint",
+      "nostrud"
+    ],
+    "address": {
+      "city": "Gloucester",
+      "address": "672 Coffey Street",
+      "postalCode": 48426
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        37.98978681,
+        23.73413749
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "c6861ea6-60ff-4a0c-89a9-d5aa82604a4c",
+        "name": "ΣΤΟ ΠΡΑΚΤΟΡΕΙΟ",
+        "prodId": "031048ea-fa63-4d04-9aaa-697a3b7074a2",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 94
+      },
+      {
+        "id": "ab9a3d37-65c4-4d56-894c-94f5cc2d03ad",
+        "name": "ONLINE",
+        "prodId": "031048ea-fa63-4d04-9aaa-697a3b7074a2",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 94
+      },
+      {
+        "id": "1e678dd4-ac06-4fb3-8b5a-0c43737ed82d",
+        "name": "OPAPBET",
+        "prodId": "031048ea-fa63-4d04-9aaa-697a3b7074a2",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 75
+      },
+      {
+        "id": "ad21d70e-9def-4bef-b6c3-6aa15db5010a",
+        "name": "RACES",
+        "prodId": "031048ea-fa63-4d04-9aaa-697a3b7074a2",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 40
+      }
+    ]
+  },
+  {
+    "id": "57aad528-eab8-42bc-a7c8-51b9278f2b85",
+    "posId": 88,
+    "posType": "Bingo",
+    "legalName": "Rene Pickett ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "est",
+      "pariatur",
+      "duis",
+      "commodo",
+      "do"
+    ],
+    "address": {
+      "city": "Fairfield",
+      "address": "785 Dahlgreen Place",
+      "postalCode": 73964
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        37.9674451,
+        23.74517437
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "cfe1e5b7-f859-4642-8c0d-814c90ffaaa4",
+        "name": "ΤΖΟΚΕΡ",
+        "prodId": "6c8c3541-0870-4160-aaf3-1df14743f0f7",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 62
+      },
+      {
+        "id": "7aa0902f-db3c-4885-b36e-dab75bc73e64",
+        "name": "ΚΙΝΟ",
+        "prodId": "6c8c3541-0870-4160-aaf3-1df14743f0f7",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 71
+      },
+      {
+        "id": "b7253f14-0b7c-4e89-a880-b956e5c50023",
+        "name": "ΣΤΟΙΧΗΜΑ",
+        "prodId": "6c8c3541-0870-4160-aaf3-1df14743f0f7",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 10
+      },
+      {
+        "id": "dfb062db-4bbb-47de-b6f7-dcf80044b56d",
+        "name": "EXTRA 5",
+        "prodId": "6c8c3541-0870-4160-aaf3-1df14743f0f7",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 75
+      },
+      {
+        "id": "c6530bed-f268-48e5-b552-e0362017b096",
+        "name": "SUPER 3",
+        "prodId": "6c8c3541-0870-4160-aaf3-1df14743f0f7",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 23
+      }
+    ]
+  },
+  {
+    "id": "af1823ae-48f5-44c4-9be3-17144cbc6f2c",
+    "posId": 89,
+    "posType": "LuckyGames",
+    "legalName": "Viola Horne ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "esse",
+      "adipisicing",
+      "aliqua",
+      "elit",
+      "culpa"
+    ],
+    "address": {
+      "city": "Greenbush",
+      "address": "968 John Street",
+      "postalCode": 11260
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        37.95958737,
+        23.79084849
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "9b45abc7-71be-470a-a893-cd292fc60937",
+        "name": "ΣΤΟ ΠΡΑΚΤΟΡΕΙΟ",
+        "prodId": "6b655906-ef6e-4631-8876-ef3774365f33",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 13
+      },
+      {
+        "id": "4f77a382-5d76-464f-8e34-b36bf9f3eda7",
+        "name": "ONLINE",
+        "prodId": "6b655906-ef6e-4631-8876-ef3774365f33",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 41
+      },
+      {
+        "id": "499a0a32-d2f0-4ee3-a1d0-e94c5816c6de",
+        "name": "OPAPBET",
+        "prodId": "6b655906-ef6e-4631-8876-ef3774365f33",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 0
+      },
+      {
+        "id": "efaaf0c6-5fa9-43ac-bf3d-02b58b251246",
+        "name": "RACES",
+        "prodId": "6b655906-ef6e-4631-8876-ef3774365f33",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 43
+      }
+    ]
+  },
+  {
+    "id": "a20dbdb1-752f-4a3f-9286-e4b06dd718d1",
+    "posId": 90,
+    "posType": "LuckyGames",
+    "legalName": "Kimberley Conner ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "quis",
+      "excepteur",
+      "eiusmod",
+      "aliqua",
+      "fugiat"
+    ],
+    "address": {
+      "city": "Shaft",
+      "address": "731 Barbey Street",
+      "postalCode": 26527
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        38.03211143,
+        23.78568374
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "f22a7047-871c-416c-b285-e4497c8ab7c1",
+        "name": "ΠΡΟΠΟ",
+        "prodId": "e38024c4-2851-482d-8ecb-52691d9e2c49",
+        "productName": "ΠΡΟΓΝ. ΠΟΔΟΣΦΑΙΡΟΥ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 79
+      },
+      {
+        "id": "bd328a40-d830-474b-aec0-e5833899d6f0",
+        "name": "ΠΡΟΠΟΓΚΟΛ",
+        "prodId": "e38024c4-2851-482d-8ecb-52691d9e2c49",
+        "productName": "ΠΡΟΓΝ. ΠΟΔΟΣΦΑΙΡΟΥ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 2
+      }
+    ]
+  },
+  {
+    "id": "e7745dfb-44aa-4aba-874e-eea0f8c6fc7f",
+    "posId": 91,
+    "posType": "LuckyGames",
+    "legalName": "Hodge Bailey ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "sint",
+      "aliqua",
+      "labore",
+      "et",
+      "minim"
+    ],
+    "address": {
+      "city": "Murillo",
+      "address": "176 Halsey Street",
+      "postalCode": 23316
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        37.99846987,
+        23.68327419
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "6c01e537-fbf0-485f-b1bf-22032246e5b4",
+        "name": "ΣΤΟ ΠΡΑΚΤΟΡΕΙΟ",
+        "prodId": "763ddee6-0356-428d-b4d4-17e8ea64eee2",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 24
+      },
+      {
+        "id": "341e6c46-cec3-4ece-9b41-d92b636500bd",
+        "name": "ONLINE",
+        "prodId": "763ddee6-0356-428d-b4d4-17e8ea64eee2",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 81
+      },
+      {
+        "id": "7ec53b9e-6983-4cf7-803e-3d780e9f7728",
+        "name": "OPAPBET",
+        "prodId": "763ddee6-0356-428d-b4d4-17e8ea64eee2",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 64
+      },
+      {
+        "id": "a182b82d-77ad-4b3c-b38f-fc2862402ba8",
+        "name": "RACES",
+        "prodId": "763ddee6-0356-428d-b4d4-17e8ea64eee2",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 24
+      }
+    ]
+  },
+  {
+    "id": "f2f58180-9569-486f-999c-eb35bd9eedf8",
+    "posId": 92,
+    "posType": "LuckyGames",
+    "legalName": "May Herrera ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "pariatur",
+      "laboris",
+      "minim",
+      "ut",
+      "dolore"
+    ],
+    "address": {
+      "city": "Belgreen",
+      "address": "869 Vista Place",
+      "postalCode": 32062
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        38.08272126,
+        23.79371083
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "fb640e73-6dd5-4004-963d-d972506b5d2f",
+        "name": "ΣΤΟ ΠΡΑΚΤΟΡΕΙΟ",
+        "prodId": "76048f2d-5704-4f51-9d1e-69d2b4e4ac36",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 95
+      },
+      {
+        "id": "17de460d-9617-4408-9cd7-d610f1f51b64",
+        "name": "ONLINE",
+        "prodId": "76048f2d-5704-4f51-9d1e-69d2b4e4ac36",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 6
+      },
+      {
+        "id": "5921d76b-7bc2-4244-99df-4a7f6a0a472c",
+        "name": "OPAPBET",
+        "prodId": "76048f2d-5704-4f51-9d1e-69d2b4e4ac36",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 60
+      },
+      {
+        "id": "00a25f98-3db0-45e5-b69c-7dc9b9d8280c",
+        "name": "RACES",
+        "prodId": "76048f2d-5704-4f51-9d1e-69d2b4e4ac36",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 28
+      }
+    ]
+  },
+  {
+    "id": "4a8a1c86-3f7f-43f2-a9e9-b3d6dc09b423",
+    "posId": 93,
+    "posType": "LuckyGames",
+    "legalName": "Chase Jacobson ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "sit",
+      "incididunt",
+      "aute",
+      "voluptate",
+      "pariatur"
+    ],
+    "address": {
+      "city": "Mulberry",
+      "address": "523 Junius Street",
+      "postalCode": 91808
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        38.02662152,
+        23.66923629
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "6921cac9-07aa-407c-883f-6bbd4a4ec703",
+        "name": "ΣΤΟ ΠΡΑΚΤΟΡΕΙΟ",
+        "prodId": "ff0c3634-4cae-41f9-a18b-6303ab036e38",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 70
+      },
+      {
+        "id": "abeda6f8-7248-4112-9fba-0925d7468d68",
+        "name": "ONLINE",
+        "prodId": "ff0c3634-4cae-41f9-a18b-6303ab036e38",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 49
+      },
+      {
+        "id": "83c4626e-d12e-49c5-b209-e81246ecad8c",
+        "name": "OPAPBET",
+        "prodId": "ff0c3634-4cae-41f9-a18b-6303ab036e38",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 16
+      },
+      {
+        "id": "278a1167-2922-4a3a-8999-9363639fdf4a",
+        "name": "RACES",
+        "prodId": "ff0c3634-4cae-41f9-a18b-6303ab036e38",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 58
+      }
+    ]
+  },
+  {
+    "id": "0f051551-4566-4105-ad7e-e3be559397da",
+    "posId": 94,
+    "posType": "HL",
+    "legalName": "Elvia Pierce ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "aliqua",
+      "dolor",
+      "ad",
+      "ipsum",
+      "laborum"
+    ],
+    "address": {
+      "city": "Stockdale",
+      "address": "190 Calder Place",
+      "postalCode": 62661
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        38.08199344,
+        23.6801358
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "0ca91d9d-9c8f-402a-94c1-b84cb47729d7",
+        "name": "ΠΡΟΠΟ",
+        "prodId": "14d76480-01fa-4b98-8e49-4267389f0239",
+        "productName": "ΠΡΟΓΝ. ΠΟΔΟΣΦΑΙΡΟΥ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 11
+      },
+      {
+        "id": "1381c9d7-401d-4823-ac38-334553b0382e",
+        "name": "ΠΡΟΠΟΓΚΟΛ",
+        "prodId": "14d76480-01fa-4b98-8e49-4267389f0239",
+        "productName": "ΠΡΟΓΝ. ΠΟΔΟΣΦΑΙΡΟΥ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 99
+      }
+    ]
+  },
+  {
+    "id": "aa82dfe3-a653-4525-ab83-e0eac7209470",
+    "posId": 95,
+    "posType": "Bingo",
+    "legalName": "Lacy Rasmussen ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "laborum",
+      "veniam",
+      "fugiat",
+      "labore",
+      "aliquip"
+    ],
+    "address": {
+      "city": "Dante",
+      "address": "988 Frost Street",
+      "postalCode": 44166
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        37.97908469,
+        23.79986453
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "aa06dada-edc0-463f-9693-aaec56f251c4",
+        "name": "ΣΤΟ ΠΡΑΚΤΟΡΕΙΟ",
+        "prodId": "08acdc29-22b2-423d-925a-ea0de84c06cb",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 78
+      },
+      {
+        "id": "6ce966b7-05b5-4785-b852-c117dd2571dd",
+        "name": "ONLINE",
+        "prodId": "08acdc29-22b2-423d-925a-ea0de84c06cb",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 36
+      },
+      {
+        "id": "a653b504-08a9-4439-bd9c-fbbae29ba08c",
+        "name": "OPAPBET",
+        "prodId": "08acdc29-22b2-423d-925a-ea0de84c06cb",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 0
+      },
+      {
+        "id": "dbe58874-038d-41a9-8788-320f7b96b1a1",
+        "name": "RACES",
+        "prodId": "08acdc29-22b2-423d-925a-ea0de84c06cb",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 68
+      }
+    ]
+  },
+  {
+    "id": "737cc488-3d23-441a-adff-ba4d44ca4676",
+    "posId": 96,
+    "posType": "LuckyGames",
+    "legalName": "Bates Bowen ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "non",
+      "elit",
+      "adipisicing",
+      "velit",
+      "culpa"
+    ],
+    "address": {
+      "city": "Grazierville",
+      "address": "407 Caton Place",
+      "postalCode": 61581
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        37.94495745,
+        23.73404742
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "33186d1d-148d-455e-9cff-2fe02e193326",
+        "name": "ΤΖΟΚΕΡ",
+        "prodId": "e98bf0e7-c337-4aec-adb7-52e5db358e34",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 21
+      },
+      {
+        "id": "0b6a41e3-76ba-497f-8c57-39771700e8da",
+        "name": "ΚΙΝΟ",
+        "prodId": "e98bf0e7-c337-4aec-adb7-52e5db358e34",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 26
+      },
+      {
+        "id": "7bcc1561-f89f-493d-abf2-1d88bd0adcc6",
+        "name": "ΣΤΟΙΧΗΜΑ",
+        "prodId": "e98bf0e7-c337-4aec-adb7-52e5db358e34",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 35
+      },
+      {
+        "id": "55412efc-6c38-4319-8b24-c3cbb9b12ee0",
+        "name": "EXTRA 5",
+        "prodId": "e98bf0e7-c337-4aec-adb7-52e5db358e34",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 71
+      },
+      {
+        "id": "bfb37bbc-b6b9-4c16-a615-94c6e21b7a98",
+        "name": "SUPER 3",
+        "prodId": "e98bf0e7-c337-4aec-adb7-52e5db358e34",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 2
+      }
+    ]
+  },
+  {
+    "id": "89bf64a1-7cec-43b6-b426-97f50809aa99",
+    "posId": 97,
+    "posType": "Bingo",
+    "legalName": "Tamara Waters ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "ut",
+      "occaecat",
+      "esse",
+      "consequat",
+      "duis"
+    ],
+    "address": {
+      "city": "Newkirk",
+      "address": "379 Franklin Avenue",
+      "postalCode": 13516
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        37.97614361,
+        23.84256511
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "58bf2ff7-497f-427a-bec4-b6c7c8ca4c03",
+        "name": "ΠΡΟΠΟ",
+        "prodId": "e580899a-8335-4318-b6af-3d648b236639",
+        "productName": "ΠΡΟΓΝ. ΠΟΔΟΣΦΑΙΡΟΥ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 64
+      },
+      {
+        "id": "74621107-3826-49e0-bd7c-35cf1d4915d7",
+        "name": "ΠΡΟΠΟΓΚΟΛ",
+        "prodId": "e580899a-8335-4318-b6af-3d648b236639",
+        "productName": "ΠΡΟΓΝ. ΠΟΔΟΣΦΑΙΡΟΥ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 46
+      }
+    ]
+  },
+  {
+    "id": "c01ad1ad-35c5-4196-b669-6dcefa0c83c0",
+    "posId": 98,
+    "posType": "LuckyGames",
+    "legalName": "Shawn Gomez ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "veniam",
+      "quis",
+      "et",
+      "et",
+      "velit"
+    ],
+    "address": {
+      "city": "Hardyville",
+      "address": "802 Highland Place",
+      "postalCode": 58635
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        38.00780166,
+        23.76877542
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "503edc88-4cd3-4067-b55c-579463071799",
+        "name": "ΠΡΟΠΟ",
+        "prodId": "eb87504a-169f-4959-85fd-89ad9331268f",
+        "productName": "ΠΡΟΓΝ. ΠΟΔΟΣΦΑΙΡΟΥ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 75
+      },
+      {
+        "id": "8160c048-8859-4547-bb2c-f9a5d9254085",
+        "name": "ΠΡΟΠΟΓΚΟΛ",
+        "prodId": "eb87504a-169f-4959-85fd-89ad9331268f",
+        "productName": "ΠΡΟΓΝ. ΠΟΔΟΣΦΑΙΡΟΥ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 86
+      }
+    ]
+  },
+  {
+    "id": "46af69dc-4fe4-41a6-8a0f-4e8389ea3bc6",
+    "posId": 99,
+    "posType": "Bingo",
+    "legalName": "Stacey Lucas ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "tempor",
+      "non",
+      "qui",
+      "exercitation",
+      "irure"
+    ],
+    "address": {
+      "city": "Saddlebrooke",
+      "address": "649 Berriman Street",
+      "postalCode": 57621
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        38.02417497,
+        23.76876544
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "6effbe6d-0160-4bce-8a36-458ad58cbe3e",
+        "name": "ΤΖΟΚΕΡ",
+        "prodId": "e478af6f-7e74-4f15-aa65-5949e5f71645",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 30
+      },
+      {
+        "id": "c5db66de-5754-4897-b2e7-569ed6d7ed5a",
+        "name": "ΚΙΝΟ",
+        "prodId": "e478af6f-7e74-4f15-aa65-5949e5f71645",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 44
+      },
+      {
+        "id": "1faa90d7-0036-45da-a59b-9d2bb0dcfcf4",
+        "name": "ΣΤΟΙΧΗΜΑ",
+        "prodId": "e478af6f-7e74-4f15-aa65-5949e5f71645",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 42
+      },
+      {
+        "id": "d2a3755f-55c3-4b5d-8806-c2d2d9d5ad24",
+        "name": "EXTRA 5",
+        "prodId": "e478af6f-7e74-4f15-aa65-5949e5f71645",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 57
+      },
+      {
+        "id": "af00a8f5-d7dc-4322-a542-114d4a68edd4",
+        "name": "SUPER 3",
+        "prodId": "e478af6f-7e74-4f15-aa65-5949e5f71645",
+        "productName": "ΠΑΙΧΝ. ΑΡΙΘΜΩΝ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 37
+      }
+    ]
+  },
+  {
+    "id": "a367381c-ebd8-4cbc-a6f3-895a4628bae8",
+    "posId": 100,
+    "posType": "HL",
+    "legalName": "Kathie Poole ΕΠΕ",
+    "active": true,
+    "amenities": [
+      "commodo",
+      "dolore",
+      "aliqua",
+      "occaecat",
+      "eu"
+    ],
+    "address": {
+      "city": "Epworth",
+      "address": "917 Veronica Place",
+      "postalCode": 45669
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        37.93885739,
+        23.82655995
+      ]
+    },
+    "subproducts": [
+      {
+        "id": "746793fd-2b81-4df4-98b8-2d07ccf570a7",
+        "name": "ΣΤΟ ΠΡΑΚΤΟΡΕΙΟ",
+        "prodId": "26a30789-4631-406c-97df-2e2e9f733a46",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 84
+      },
+      {
+        "id": "557a4f34-962a-41ec-897e-1fa808a92bcc",
+        "name": "ONLINE",
+        "prodId": "26a30789-4631-406c-97df-2e2e9f733a46",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΜΗ ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 16
+      },
+      {
+        "id": "0cb4f767-e0a6-4b61-9646-c31901556a83",
+        "name": "OPAPBET",
+        "prodId": "26a30789-4631-406c-97df-2e2e9f733a46",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 94
+      },
+      {
+        "id": "0c368b91-e813-4037-836c-3d4fd9fd35ef",
+        "name": "RACES",
+        "prodId": "26a30789-4631-406c-97df-2e2e9f733a46",
+        "productName": "ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+        "sellStatus": "ΔΙΑΘΕΣΙΜΟ",
+        "luckyGrade": 48
+      }
+    ]
+  }
+]

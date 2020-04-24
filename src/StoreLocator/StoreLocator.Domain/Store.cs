@@ -32,4 +32,16 @@
         [JsonProperty("subproducts")]
         public Subproduct[] Subproducts { get; set; }
     }
+
+    public class StoreInfo
+    {
+        [JsonProperty("id")]
+        public Guid Id { get; set; }
+        [JsonProperty("coordinates")]
+        public double[] Coordinates { get; set; }
+        [JsonProperty("posType")]
+        public string PosType { get; set; }
+        [JsonProperty("address")]
+        public Address Address { get; set; }
+    }
 }

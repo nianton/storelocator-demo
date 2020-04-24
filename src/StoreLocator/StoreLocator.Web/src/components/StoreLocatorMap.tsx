@@ -5,7 +5,7 @@ import apiClient from '../services/ApiClient';
 import config from '../appConfig.json';
 import authProvider from '../providers/authProvider';
 import  { AuthenticationState } from 'react-aad-msal'
-import ExitAggregateCard from './ExitAggregateCard';
+import StoresAggregateCard from './StoresAggregateCard';
 import { UserContext, UserContextType } from '../providers/UserContext';
 
 export interface ExitRequestHeatMapState {
@@ -13,7 +13,7 @@ export interface ExitRequestHeatMapState {
     exitCounts?: ExitCountResponse
 }
 
-export default class ExitRequestHeatMap extends React.Component<{}, ExitRequestHeatMapState> {
+export default class StoreLocatorMap extends React.Component<{}, ExitRequestHeatMapState> {
 
     private map: atlas.Map | null = null;    
     private source: atlas.source.DataSource = new atlas.source.DataSource("heatmap", { });
@@ -102,7 +102,7 @@ export default class ExitRequestHeatMap extends React.Component<{}, ExitRequestH
         return (
           <React.Fragment>
             <div id="map"></div>
-            <ExitAggregateCard exitAggregate={this.state.exitCounts} />
+            <StoresAggregateCard exitAggregate={this.state.exitCounts} />
           </React.Fragment>
         );
     }

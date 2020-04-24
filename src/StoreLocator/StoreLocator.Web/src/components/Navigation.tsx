@@ -31,18 +31,18 @@ export default function Navigation() {
   console.log("NAVIGATION RENDERED", userContext);
 
   return (
-    <nav className="blue darken-4" role="navigation">
+    <nav role="navigation">
       <div className="nav-wrapper container">
         <Link id="logo-container" to="/" className="brand-logo">
-          <img src="/govlogo.svg" height="50" style={{ verticalAlign: "middle" }} />
+          <img src="/demo-logo.png" height="50" style={{ verticalAlign: "middle" }} />
             &nbsp;|&nbsp;{t('nav.header')}</Link>
         {/* <a id="logo-container" href="#" className="brand-logo"></a> */}
         <ul className="right hide-on-med-and-down">
-          {isAuthenticated && <li><Link to="/heatmap">Heatmap</Link></li>}
+          {isAuthenticated && <li><Link to="/map">{t('nav.map')}</Link></li>}
           <li>{getNavigationLink()}</li>          
         </ul>
         <ul id="nav-mobile" className="sidenav">
-          {isAuthenticated && <li><Link to="/heatmap">Heatmap</Link></li>}
+          {isAuthenticated && <li><Link to="/map">{t('nav.map')}</Link></li>}
           <li>{getNavigationLink()}</li>
         </ul>
         <a href="#" data-target="nav-mobile" className="sidenav-trigger"><i className="material-icons">menu</i></a>
