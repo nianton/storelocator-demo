@@ -54,6 +54,20 @@ namespace StoreLocator.ApiFunction
             return new OkObjectResult(result);
         }
 
+        [FunctionName("StoresGetCountsFunction")]
+        public async Task<IActionResult> StoresGetCountsFunction(
+            [HttpTrigger(AuthorizationLevel.Function, "get", Route = "stores/counts")] HttpRequest req,
+            ILogger log)
+        {
+            await Task.Yield();
+            log.LogInformation("New stores count query arrived"); 
+
+            var querySpec = new SqlQuerySpec($"SELECT VALUE root FROM (SELECT COUNT(1) AS storeCount, s.posType FROM stores s GROUP BY s.posType) as root");
+
+            var result = await ExecuteQueryAsync<StorePosTypeCount>(querySpec);
+            return new OkObjectResult(result);
+        }
+
         /// <summary>
         /// Executes asynchronously a CosmosDB query (exhaustive -all pages).
         /// </summary>

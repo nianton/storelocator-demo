@@ -44,4 +44,13 @@
         [JsonProperty("address")]
         public Address Address { get; set; }
     }
+
+    public class StorePosTypeCount
+    {
+        [JsonProperty("posType")]
+        public string PosType { get; set; }
+        [JsonProperty("storeCount")]
+        public int StoreCount { get; set; }
+    }
+
 }

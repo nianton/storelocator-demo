@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "StoreLocator.ApiFunc": {
+      "commandName": "Project",
+      "commandLineArgs": "host start --cors * --port 7071"
+    }
+  }
+}

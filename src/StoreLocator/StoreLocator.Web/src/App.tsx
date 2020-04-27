@@ -3,11 +3,8 @@ import React, { useState, useEffect } from 'react';
 import './i18n';
 import HomePage from './components/HomePage';
 import Layout from './components/Layout';
-import { ExitRequestPayload } from './models/ExitRequest';
-import apiClient from './services/ApiClient';
 import { Route, Switch, useHistory } from 'react-router-dom';
-import StoreInfo from './components/StoreInfo';
-import ExitRequestValidate from './components/ExitRequestValidate';
+import StoreInfoPage from './components/StoreInfoPage';
 import StoreLocatorMap from './components/StoreLocatorMap';
 import NotFound from './components/NotFound';
 import appInsights from './services/AppInsights';
@@ -64,32 +61,13 @@ export default function App() {
   }, [])
 
   const history = useHistory();
-  
-  const handleSubmit = (payload: ExitRequestPayload) => {
-    console.log(payload);
-    setBusy(true);
-    
-    apiClient.postExitRequest(payload)
-      .then(response => { 
-        console.log("Success", response);
-        history.push(`/details/${response.id}`, response);
-      })
-      .catch(reason => {
-        console.log("Error", reason);
-        M.toast({ html: `Exit Request failed with reason: ${reason}` });
-      })
-      .finally(() => setBusy(false));
-  }
    
   return (
     <UserContext.Provider value={userContextValue}>
       <Layout user={user}>
         <Switch>
-          <Route exact path="/">
-            <HomePage onSubmit={handleSubmit} isBusy={busy} />
-          </Route>
-          <Route path="/details/:id" component={StoreInfo} />
-          <Route path="/validate/:id" component={ExitRequestValidate} />
+          <Route exact path="/" component={HomePage} />
+          <Route path="/details/:posType/:id" component={StoreInfoPage} />
           <Route path="/map" component={StoreLocatorMap} />
           <Route component={NotFound} />
         </Switch>

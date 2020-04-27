@@ -22,13 +22,11 @@ export default function Navigation() {
     return false;
   }
 
-  const getNavigationLink = () => {
+  const getUserStateLink = () => {
     return isAuthenticated
       ? <a href="#" onClick={handleLogoutClick}>{t('nav.hello', {account: user})}</a>
       : <a href="#" onClick={handleLoginClick}>{t('nav.signIn')}</a>;
   }
-
-  console.log("NAVIGATION RENDERED", userContext);
 
   return (
     <nav role="navigation">
@@ -38,12 +36,12 @@ export default function Navigation() {
             &nbsp;|&nbsp;{t('nav.header')}</Link>
         {/* <a id="logo-container" href="#" className="brand-logo"></a> */}
         <ul className="right hide-on-med-and-down">
-          {isAuthenticated && <li><Link to="/map">{t('nav.map')}</Link></li>}
-          <li>{getNavigationLink()}</li>          
+          <li><Link to="/map">{t('nav.map')}</Link></li>
+          <li>{getUserStateLink()}</li>          
         </ul>
         <ul id="nav-mobile" className="sidenav">
-          {isAuthenticated && <li><Link to="/map">{t('nav.map')}</Link></li>}
-          <li>{getNavigationLink()}</li>
+          <li><Link to="/map">{t('nav.map')}</Link></li>
+          <li>{getUserStateLink()}</li>
         </ul>
         <a href="#" data-target="nav-mobile" className="sidenav-trigger"><i className="material-icons">menu</i></a>
       </div>

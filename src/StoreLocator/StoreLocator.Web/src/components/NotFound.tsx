@@ -13,6 +13,6 @@ export default function NotFound() {
             <div className="col s12">Return to <Link to="/">home</Link>.</div>
           </div>
         </div>
-      </div>        
+      </div>
     );
 }

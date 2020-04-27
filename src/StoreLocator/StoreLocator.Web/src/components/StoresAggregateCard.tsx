@@ -1,40 +1,36 @@
 import React from 'react';
-import { Reason, getReasonShortLabel } from '../models/Reason';
-import { ExitCountResponse } from '../models/ExitRequest';
+import { PosTypeStoreCount } from '../models/Store';
 import { useTranslation } from 'react-i18next';
 
-export interface ExitAggregateCardProps {
-  exitAggregate: ExitCountResponse | undefined
+export interface StoresAggregateCardProps {
+  storeCounts: PosTypeStoreCount[] | undefined
 }
 
-export default function StoresAggregateCard(props: ExitAggregateCardProps) {
+export default function StoresAggregateCard(props: StoresAggregateCardProps) {
   const [t] = useTranslation();
-  let { exitAggregate } = props;
-  
-  const getReasonCount = (reason: string) => {
-    if (!exitAggregate)
-      return 0;
+  let { storeCounts } = props;
 
-    let item = exitAggregate?.messageAggregates.find(item => item.reason.toString() == reason.toString());
-    return item?.exitCount || 0;
+  const getPosTypeLabel = (posType: string): string => {
+    return t(`posType.${posType}`);
   }
 
-  const renderReasonCounts = () : JSX.Element[] => {
-      const r: any = Reason;
-      return Object.getOwnPropertyNames(Reason)
-        .filter(reason => !isNaN(Number(reason)) && Number(reason) > 0)
-        .map(reason => (
-        <tr key={reason}>
-          <td>{reason}. {getReasonShortLabel(r[reason])}</td>
-          <td className="right-align">{getReasonCount(reason)}</td>
+  const renderCounts = () : JSX.Element[] | undefined => {
+      let count = 1;
+      return storeCounts?.map(x => (
+        <tr key={x.posType}>
+          <td>{count++}. {getPosTypeLabel(x.posType)}</td>
+          <td className="right-align">{x.storeCount}</td>
         </tr>));
   }
 
+  let totalCount = 0;
+  storeCounts?.forEach(i => totalCount += i.storeCount);
+
   return (
     <React.Fragment>
-      {exitAggregate && <div className="card card-map hoverable">
+      {storeCounts && <div className="card card-map hoverable">
       <div className="card-content">
-        <span className="card-title">{t('heatmap.card.header')} ({exitAggregate.totalCount})</span>
+        <span className="card-title">{t('heatmap.card.header')} ({totalCount})</span>
         <table>
           <thead>
             <tr>
@@ -43,7 +39,7 @@ export default function StoresAggregateCard(props: ExitAggregateCardProps) {
             </tr>
           </thead>
           <tbody>
-            {renderReasonCounts()}
+            {renderCounts()}
           </tbody>
         </table>
       </div>    

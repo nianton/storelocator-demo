@@ -15,15 +15,15 @@ export default function Footer() {
           <div className="col l3 s12">
             <h5 className="white-text">{t('footer.stores')}</h5>
               <ul>
-                <li><a className="white-text" target="_blank" href="https://forma.gov.gr/docs/entypo-vevaiosis-kinisis.pdf">{t('footer.document.movementPermit')}</a></li>
-                <li><a className="white-text" target="_blank" href="https://forma.gov.gr/docs/vevaiosi-kikloforias.pdf">{t('footer.document.employeePermit')}</a></li>
+                <li><a className="white-text" target="_blank" href="#">{t('footer.document.movementPermit')}</a></li>
+                <li><a className="white-text" target="_blank" href="#">{t('footer.document.employeePermit')}</a></li>
               </ul>
           </div>
           <div className="col l3 s12">
               <h5 className="white-text">{t('footer.information')}</h5>
               <ul>
-                <li><a className="white-text" target="_blank" href="https://forma.gov.gr/docs/FAQ-apagorefsi.pdf">{t('footer.faq')}</a></li>
-                <li><a className="white-text" target="_blank" href="https://forma.gov.gr/docs/data-protection-policy.pdf">{t('footer.privacy')}</a></li>
+                <li><a className="white-text" target="_blank" href="#">{t('footer.faq')}</a></li>
+                <li><a className="white-text" target="_blank" href="#">{t('footer.privacy')}</a></li>
               </ul>
           </div>
           </div>

@@ -1,34 +1,13 @@
 {
-  "reasons": {
-    "0": "Απροσδιόριστος",
-    "FarmacyVisit": "Μετάβαση σε φαρμακείο ή επίσκεψη στον γιατρό",
-    "SuperMarketVisit": "Μετάβαση σε εν λειτουργία κατάστημα προμηθειών αγαθών πρώτης ανάγκης",
-    "BankVisit": "Μετάβαση στην τράπεζα",
-    "HelpOthers": "Κίνηση για παροχή βοήθειας",
-    "AttendCeremony": "Μετάβαση σε τελετή (π.χ. κηδεία, γάμος, βάφτιση)",
-    "PhysicalExcersise": "Σωματική άσκηση σε εξωτερικό χώρο ή κίνηση με κατοικίδιο ζώο"
+  "loader": "Loading...",
+  "posType": {
+    "LuckyGames": "Lucky Games",
+    "Bingo": "Bingo stores",
+    "HL": "Tough Luck"
   },
-  "reasonsShort": {
-    "0": "Απροσδιόριστος",
-    "FarmacyVisit": "Μετάβαση σε φαρμακείο/ιατρό",
-    "SuperMarketVisit": "Μετάβαση σε κατάστημα",
-    "BankVisit": "Μετάβαση σε τράπεζα",
-    "HelpOthers": "Παροχή βοήθειας",
-    "AttendCeremony": "Μετάβαση σε τελετή",
-    "PhysicalExcersise": "Σωματική άσκηση/κατοικίδιο"
-  },
-  "form": {
-    "header": "Αίτημα Μετακίνησης",
-    "subheader": "Φόρμα ηλεκτρονικής υποβολής για αίτημα μετακίνησης",
-    "field": {
-      "firstName": "Όνομα",
-      "lastName": "Επώνυμο",
-      "address": "Διεύθυνση",
-      "addressPlaceholder": "Εισάγετε τη διεύθυνση κατοικίας σας",
-      "reason": "Σκοπός μετακίνησης",
-      "email": "Email (προαιρετικά)",
-      "submit": "Υποβολή"
-    }
+  "home": {
+    "header":"Lucky Games stores",
+    "subheader": "Βρες ένα κατάστημα στη γειτονιά σου!"
   },
   "nav": {
     "header":"Lucky Games :: Καταστήματα",
@@ -36,25 +15,15 @@
     "hello": "Χαίρε {{account}}!",
     "map": "Χάρτης"
   },
-  "validate": {
-    "header":"Πιστοποίηση Αιτήματος",
-    "subheader":"Στοιχεία Αιτήματος Μετακίνησης",
-    "label":{
-      "address":"Διεύθυνση",
-      "reason": "Σκοπός μετακίνησης",
-      "timestamp": "Ημ/νία & ώρα υποβολής"
-    }
-  },
-  "requestinfo": {
+  "storeinfo": {
     "header":"Αίτημα Μετακίνησης",
-    "subheader": "Απόδειξη ηλεκτρονικής υποβολής αιτήματος μετακίνησης",    
-    "successWithCode": "Το αίτημα υποβλήθηκε επιτυχώς με κωδικό:",
-    "addNewRequest": "Δημιουργία νέου αιτήματος"
+    "subheader": "Απόδειξη ηλεκτρονικής υποβολής αιτήματος μετακίνησης",
+    "goToMap": "Επιστροφή στο χάρτη"
   },
   "heatmap": {
     "card": {
-      "header":"Αίτηματα 24ώρου",
-      "reason":"Σκοπός",
+      "header":"Kαταστήματα",
+      "reason":"Branch",
       "total": "Πλήθος"
     }
   },
@@ -67,8 +36,8 @@
     "information": "Πληροφορίες",
     "stores": "Καταστήματα",
     "document": {
-      "movementPermit": "Βεβαίωση Κίνησης",
-      "employeePermit": "Βεβαίωση Εργαζομένου"
+      "movementPermit": "Lucky Games",
+      "employeePermit": "Bingo"
     },
     "faq": "Συχνές ερωτήσεις",
     "privacy": "Προστασία ιδιωτικότητας"

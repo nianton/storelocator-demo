@@ -1,6 +1,6 @@
 {
-  "webAppBaseUrl": "http://localhost:3000",
-  "apiBaseUrl": "http://localhost:7071/api",
+  "webAppBaseUrl": "https://storeloc8tr.azureedge.net",
+  "apiBaseUrl": "https://storeloc8tr-demo-apim.azure-api.net",
   "apiKey": "684bd7c99ddd4b6991eeda91ef898753",
   "mapsKey": "YYHfrwcWZgSRgQQezjwmSvslKnumyF7x_N_bHmR4aj4",
   "clientId": "9b37f574-acb1-415d-aa91-f3fa6e71c573",

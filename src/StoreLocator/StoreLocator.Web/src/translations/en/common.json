@@ -1,5 +1,10 @@
 {
   "loader": "Loading...",
+  "posType": {
+    "LuckyGames": "Lucky Games",
+    "Bingo": "Bingo stores",
+    "HL": "Tough Luck"
+  },
   "reasons": {
     "FarmacyVisit": "Going to the pharmacy or visiting a Medical Doctor",
     "SuperMarketVisit": "Going to a supply store in operation",
@@ -17,18 +22,9 @@
     "AttendCeremony": "Going to ceremony",
     "PhysicalExcersise": "Physical exercise/pet"
   },
-  "form": {
-    "header": "Movement Permit",
-    "subheader": "Form for e-submission of Lockdown Movement Permit",
-    "field": {
-      "firstName": "Name",
-      "lastName": "Last name",
-      "address": "Address",
-      "addressPlaceholder": "Enter your home address", 
-      "reason": "Movement reason",
-      "email": "Email (optional)",
-      "submit": "Submit"
-    }
+  "home": {
+    "header":"Lucky Games stores",
+    "subheader": "Βρες ένα κατάστημα στη γειτονιά σου!"
   },
   "nav": {
     "header":"Lucky Games :: Find a Store near you",
@@ -36,27 +32,17 @@
     "hello": "Hello {{account}}!",
     "map": "Stores map"
   },
-  "validate": {
-    "header":"Permit Validation",
-    "subheader":"Movement Permit details",
-    "label":{
-      "address":"Address",
-      "reason": "Movement reason",
-      "timestamp": "Date and time of submission"
-    }
-  },
   "heatmap": {
     "card": {
-      "header":"Permits in last 24 hours",
-      "reason":"Reason",
+      "header":"Stores",
+      "reason":"Branch",
       "total": "Total"
     }
   },
-  "requestinfo": {
-    "header":"Movement Permit",
-    "subheader": "Movement Permit submission receipt",    
-    "successWithCode": "Permit was successfully submitted with code:",
-    "addNewRequest": "Request another movement permit"
+  "storeinfo": {
+    "header":"Lucky Games stores",
+    "subheader": "Find a store near you!",
+    "goToMap": "Go back to map"
   },
   "footer": {
     "language": { 
@@ -67,8 +53,8 @@
     "information": "Information",
     "stores": "Stores",
     "document": {
-      "movementPermit": "Movement permit",
-      "employeePermit": "Commute permit"
+      "movementPermit": "Lucky Games",
+      "employeePermit": "Bingo"
     },
     "faq": "Useful questions",
     "privacy": "Privacy policy"

@@ -1,109 +1,135 @@
 import React from 'react';
 import * as atlas from 'azure-maps-control';
-import { ExitRequestMapInfo, ExitCountResponse } from '../models/ExitRequest';
+import StoreInfo from '../models/StoreInfo';
+import { PosTypeStoreCount } from '../models/Store';
 import apiClient from '../services/ApiClient';
 import config from '../appConfig.json';
 import authProvider from '../providers/authProvider';
-import  { AuthenticationState } from 'react-aad-msal'
 import StoresAggregateCard from './StoresAggregateCard';
 import { UserContext, UserContextType } from '../providers/UserContext';
 
-export interface ExitRequestHeatMapState {
-    exitRequests: ExitRequestMapInfo[],
-    exitCounts?: ExitCountResponse
+export interface MapViewState {
+  stores: StoreInfo[],
+  posTypeStoreCounts?: PosTypeStoreCount[]
 }
 
-export default class StoreLocatorMap extends React.Component<{}, ExitRequestHeatMapState> {
+export default class StoreLocatorMap extends React.Component<{}, MapViewState> {
 
-    private map: atlas.Map | null = null;    
-    private source: atlas.source.DataSource = new atlas.source.DataSource("heatmap", { });
+  private map: atlas.Map | null = null;
+  private source: atlas.source.DataSource = new atlas.source.DataSource("heatmap", { 
+    cluster: true, 
+    clusterRadius: 30, 
+    clusterMaxZoom: 13 
+  });
 
-    constructor(props: {}) {
-        super(props);
-        this.state = { 
-          exitRequests: []
-        };
-    }  
+  constructor(props: {}) {
+    super(props);
+    this.state = {
+      stores: []
+    };
+  }
 
-    initHeatMap = () => {
-      // Fetching exit requests
-      apiClient.getExitRequestsForMap()
-        .then(requests => {
-          console.log('Received requests', requests);
-          this.setState({ exitRequests: requests })
-        })
-        .catch(console.error);
-      
+  initHeatMap = () => {
+    // Fetching exit requests
+    apiClient.getStoreInfos()
+      .then(requests => {
+        console.log('Received stores', requests);
+        this.setState({ stores: requests })
+      })
+      .catch(console.error);
 
-      // Fetching exit request aggregations
-      apiClient.getExitCount()
-        .then(exitCountResponse => {
-          console.log('Received counts', exitCountResponse);
-          this.setState({ exitCounts: exitCountResponse });
-        })
-        .catch(console.error);
-    }
+    // Fetching exit request aggregations
+    apiClient.getPosTypeCounts()
+      .then(posTypeStoreCounts => {
+        console.log('Received counts', posTypeStoreCounts);
+        this.setState({ posTypeStoreCounts: posTypeStoreCounts });
+      })
+      .catch(console.error);
+  }
 
-    componentWillMount() {
-      document.getElementsByTagName('html')[0].classList.add('fullscreen');
-    }
-    
-    componentWillUnmount() {
-      document.getElementsByTagName('html')[0].classList.remove('fullscreen');
-    }
+  componentWillMount() {
+    document.getElementsByTagName('html')[0].classList.add('fullscreen');
+  }
 
-    componentWillUpdate(nextProps: {}, nextState: ExitRequestHeatMapState) {
-      console.log('NextState', nextState);
+  componentWillUnmount() {
+    document.getElementsByTagName('html')[0].classList.remove('fullscreen');
+  }
 
-      if (nextState.exitRequests !== this.state.exitRequests) {        
-        this.source.clear();
-        if (nextState.exitRequests != null) {
-          var shapes = nextState.exitRequests
-            .filter(item => !!item.coordinates)
-            .map(item => {
-              var position = new atlas.data.Position(item.coordinates[0], item.coordinates[1]);              
-              var shape = new atlas.Shape(new atlas.data.Point(position));
-              return shape;
-            });
+  componentWillUpdate(nextProps: {}, nextState: MapViewState) {
+    console.log('NextState', nextState);
 
-          this.source.add(shapes);
-        }
+    if (nextState.stores !== this.state.stores) {
+      this.source.clear();
+      if (nextState.stores != null) {
+        var shapes = nextState.stores
+          .filter(item => !!item.coordinates)
+          .map(item => {
+            var position = new atlas.data.Position(item.coordinates[0], item.coordinates[1]);
+            var shape = new atlas.Shape(new atlas.data.Point(position));
+            return shape;
+          });
+
+        this.source.add(shapes);
       }
     }
+  }
 
-    componentDidMount() {
-      this.initHeatMap();
-      let map = new atlas.Map("map", {
-        authOptions: {
-          authType: atlas.AuthenticationType.subscriptionKey,
-          subscriptionKey: config.mapsKey
-        },
-        showFeedbackLink: false,
-        center: [23.720539, 37.993810],
-        zoom: 8
-      });
+  componentDidMount() {
+    this.initHeatMap();
+    let map = new atlas.Map("map", {
+      authOptions: {
+        authType: atlas.AuthenticationType.subscriptionKey,
+        subscriptionKey: config.mapsKey
+      },
+      showFeedbackLink: false,
+      center: [23.720539, 37.993810],
+      zoom: 8
+    });
+
+    //Wait until the map resources are ready.
+    map.events.add('ready', () => {
       
-      //Wait until the map resources are ready.
-      map.events.add('ready', () => {
-          /* Construct a zoom control*/
-          map.controls.add(new atlas.control.ZoomControl(), {
-            position: atlas.ControlPosition.BottomRight
-          });
-          
-          map.sources.add(this.source);
-          //map.layers.add(new atlas.layer.SymbolLayer(this.source));
-          map.layers.add(new atlas.layer.HeatMapLayer(this.source, "heatmaplayer", { radius:10, opacity:0.8 }));          
+      map.controls.add(new atlas.control.ZoomControl(), {
+        position: atlas.ControlPosition.BottomRight
       });
 
-      this.map = map;      
-    }
+      map.sources.add(this.source);
+      
+      let clusterBubbleLayer = new atlas.layer.BubbleLayer(this.source, 'bubblelayer', {
+        radius: 20,
+        color: '#ED217C',
+        strokeWidth: 0,
+        filter: ['has', 'point_count'] //Only rendered data points which have a point_count property, which clusters do.
+      });
+      map.layers.add(clusterBubbleLayer);
 
-    render() {
-        return (
-          <React.Fragment>
-            <div id="map"></div>
-            <StoresAggregateCard exitAggregate={this.state.exitCounts} />
-          </React.Fragment>
-        );
-    }
+      let countLayer = new atlas.layer.SymbolLayer(this.source, 'countLayer', {
+        iconOptions: {
+          image: 'none' //Hide the icon image.
+        },
+        textOptions: {
+          textField: ['get', 'point_count_abbreviated'],
+          offset: [0, 0.4],
+          color: 'white'
+        }
+      });
+      map.layers.add(countLayer);
+
+      let symbolLayer = new atlas.layer.SymbolLayer(this.source, 'symbLayer', {
+        filter: ['!', ['has', 'point_count']] //Filter out clustered points from this layer.
+      });
+      map.layers.add(symbolLayer);
+    });
+
+    this.map = map;
+  }
+
+  render() {
+    return (
+      <React.Fragment>
+        <div id="map"></div>
+        <StoresAggregateCard storeCounts={this.state.posTypeStoreCounts} />
+      </React.Fragment>
+    );
+  }
 }

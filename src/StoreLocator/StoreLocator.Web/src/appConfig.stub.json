@@ -1,7 +1,6 @@
 {
   "webAppBaseUrl": "[[WEBAPP_URL]]",
-  "publicApiUrl": "[[PUBLIC_API_URL]]",
-  "secureApiUrl": "[[SECURE_API_URL]]",
+  "apiBaseUrl": "[[PUBLIC_API_URL]]",
   "apiKey": "[[API_KEY]]",
   "mapsKey": "[[MAPS_KEY]]",
   "clientId": "xxxx",

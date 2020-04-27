@@ -1,12 +1,11 @@
-import { ExitRequestPayload, ExitRequest, ExitRequestMapInfo, ExitCountResponse } from "../models/ExitRequest";
+import { PosTypeStoreCount, Store } from "../models/Store";
+import StoreInfo from "../models/StoreInfo";
 import config from '../appConfig.json';
 import authProvider from "../providers/authProvider";
 
 export class ApiClient {
-    private baseUrl: string = config.publicApiUrl;
-    private baseSecureUrl: string = config.secureApiUrl;
+    private baseUrl: string = config.apiBaseUrl;
     private apiKey: string = config.apiKey;
-    private accessToken: string = "";
 
     /**
      * Initializes the API client instance. 
@@ -18,62 +17,48 @@ export class ApiClient {
         }
     }
 
-    postExitRequest(requestPayload: ExitRequestPayload): Promise<ExitRequest> {
-        return this.sendRequest("requestexit", "POST", requestPayload)
-            .then(value => { 
-                console.log(value);  
-                return value.json(); 
-            });
-    }
-
-    getExitRequest(id: string): Promise<ExitRequest> { 
-        return this.sendRequest(`requestexit/${id}`, "GET")
-          .then(value => {
-              return value.json(); 
-          });
-    }
-
-    getAreaExitRequests(area: string) : Promise<ExitRequest[]> {
-      return this.sendSecureRequest(`getexit/${area}`, "GET")
-        .then(value => {
-            return value.json(); 
-        });
-    } 
-
-    getExitRequestsForMap() : Promise<ExitRequestMapInfo[]> {
-      return this.sendSecureRequest(`getexitmap`, "GET")
+    getStore(posType: string, id: string): Promise<Store> {
+      return this.sendRequest(`stores/${posType}/${id}`, "GET")
         .then(value => {
             return value.json(); 
         });
     }
 
-    getExitCount(): Promise<ExitCountResponse> {
-      return this.sendSecureRequest(`getcount`, "GET")
+    getStoreInfos(): Promise<StoreInfo[]> {
+      return this.sendRequest("stores", "GET")
+        .then(value => {
+            return value.json(); 
+        });
+    }
+
+    getPosTypeCounts(): Promise<PosTypeStoreCount[]> {
+      return this.sendRequest("stores/counts", "GET")
         .then(value => {
             return value.json(); 
         });
     }
 
     private sendSecureRequest(resourceUrl: string, method: string, payload?: any) {
-      const url = [this.baseSecureUrl, resourceUrl].join('/');
-      let requestInit = this.ensureApiKey({ method: method });
+      const url = [this.baseUrl, resourceUrl].join('/');
+      const requestInit = this.prepareRequest(url, method, payload);
 
-      if (!!payload && (method.toUpperCase() == "POST" || method.toUpperCase() == "PUT")) {
-          requestInit.body = JSON.stringify(payload);
-      }
-  
       return this.ensureAuthorization(requestInit).then(ri => fetch(url, ri));      
     }
 
     private sendRequest(resourceUrl: string, method: string, payload?: any) {
-        const url = [this.baseUrl, resourceUrl].join('/');
-        var requestInit: RequestInit = this.ensureApiKey({ method: method });
+      const url = [this.baseUrl, resourceUrl].join('/');
+      const requestInit = this.prepareRequest(url, method, payload);
+      return fetch(url, requestInit);
+    }
 
-        if (!!payload && (method.toUpperCase() == "POST" || method.toUpperCase() == "PUT")) {
-          requestInit.body = JSON.stringify(payload);
-        }        
+    private prepareRequest(url: string, method: string, payload?: any) : RequestInit {
+      var requestInit: RequestInit = this.ensureApiKey({ method: method });
 
-        return fetch(url, requestInit);
+      if (!!payload && (method.toUpperCase() == "POST" || method.toUpperCase() == "PUT")) {
+        requestInit.body = JSON.stringify(payload);
+      }
+
+      return requestInit;
     }
 
     private ensureApiKey(requestInit: RequestInit): RequestInit {

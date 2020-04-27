@@ -13,18 +13,15 @@ namespace StoreLocator.Seed
 {
     class Program
     {
-        static int Count = 0;
         const string CosmosDBName = "storeloc8tr-cdb";
         const string CosmosDBContainerName = "stores";
+        const string CosmosDbConnectionString = "AccountEndpoint=https://storeloc8tr-demo-cdbacc.documents.azure.com:443/;AccountKey=eFAnG6UOlDajEfRH3xKrNwCFfjYvSnV6LbsKS0hSJcKexXdzJ75wh40z52zPXlV541ZFTa1aFO48ZqswjFtlsA==;";// "AccountEndpoint=https://opap-storelocator-cdbac.documents.azure.com:443/;AccountKey=2l7HeiM3aNhCLu9wF4KPcE5TU11H7VsGdUgfyacZK1Q0g0H8vDhZ7hXoXYhuyJFEOChjmWWmLxJg6JNlComaYg==;";
+        static int Count = 0;
         static readonly CosmosClient cosmosClient = new CosmosClient(CosmosDbConnectionString);
 
         static async Task Main(string[] args)
         {
             Console.WriteLine("Welcome to the data generator for StoreLocator!");
-
-            //Console.WriteLine();
-            //Console.Write("Press 'R' to refresh existing data for the last day, or 'S' to create new sample data: ");
-            //var key = Console.ReadKey();
             Console.WriteLine();
 
             await CreateSampleData();
@@ -81,7 +78,5 @@ namespace StoreLocator.Seed
                         .GroupBy(x => x.idx / maxItems)
                         .Select(g => g.Select(x => x.item));
         }
-
-        const string CosmosDbConnectionString = "AccountEndpoint=https://storeloc8tr-demo-cdbacc.documents.azure.com:443/;AccountKey=eFAnG6UOlDajEfRH3xKrNwCFfjYvSnV6LbsKS0hSJcKexXdzJ75wh40z52zPXlV541ZFTa1aFO48ZqswjFtlsA==;";// "AccountEndpoint=https://opap-storelocator-cdbac.documents.azure.com:443/;AccountKey=2l7HeiM3aNhCLu9wF4KPcE5TU11H7VsGdUgfyacZK1Q0g0H8vDhZ7hXoXYhuyJFEOChjmWWmLxJg6JNlComaYg==;";
     }
 }
