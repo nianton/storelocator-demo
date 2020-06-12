@@ -10,8 +10,6 @@ namespace StoreLocator.ApiFunction
 {
     public class Startup : FunctionsStartup
     {
-        private static readonly string CosmosDBConnectionString = Environment.GetEnvironmentVariable("CosmosDbConnectionString");
-
         public override void Configure(IFunctionsHostBuilder builder)
         {
             builder.Services.AddHttpClient();
@@ -20,7 +18,7 @@ namespace StoreLocator.ApiFunction
 
         private static DocumentClient DocumentClientFactory()
         {
-            var connectionString = new CosmosDBConnectionString(CosmosDBConnectionString);
+            var connectionString = new CosmosDBConnectionString(Config.CosmosDBConnectionString);
             return new DocumentClient(connectionString.ServiceEndpoint, connectionString.AuthKey);
         }
     }

@@ -5,7 +5,6 @@ using Microsoft.Azure.WebJobs.Extensions.Http;
 using Microsoft.Extensions.Logging;
 using Newtonsoft.Json;
 using StoreLocator.Domain;
-using System;
 using System.Threading.Tasks;
 
 namespace StoreLocator.ApiFunction
@@ -19,9 +18,9 @@ namespace StoreLocator.ApiFunction
             ILogger log)
         {
             var storeSearcher = new StoreSearcher(
-                Environment.GetEnvironmentVariable("SearchApiKey"),
-                Environment.GetEnvironmentVariable("SearchServiceName"),
-                Environment.GetEnvironmentVariable("SearchIndex"));
+                Config.SearchApiKey,
+                Config.SearchServiceName,
+                Config.SearchIndex);
 
             var requestJson = await req.ReadAsStringAsync();
             var queryRequest = JsonConvert.DeserializeObject<StoreAreaQueryRequest>(requestJson);

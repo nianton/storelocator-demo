@@ -12,20 +12,26 @@ using System.Threading.Tasks;
 
 namespace StoreLocator.ApiFunction
 {
-    public class StoresGetFunction
+    public class StoresQueryFunctions
     {
-        private static readonly string CosmosDBName = "storeloc8tr-cdb";
-        private static readonly string CosmosDBContainerName = "stores";
-
-        public StoresGetFunction(IDocumentClient documentClient)
+        public StoresQueryFunctions(IDocumentClient documentClient)
         {
             this.documentClient = documentClient;
         }
 
-        public IDocumentClient documentClient { get; }
+        protected IDocumentClient documentClient { get; }
 
-        [FunctionName("StoresGetFunction")]
-        public async Task<IActionResult> Run(
+        [FunctionName(nameof(HealthFunction))]
+        public IActionResult HealthFunction(
+            [HttpTrigger(AuthorizationLevel.Function, "get", Route = "health")] HttpRequest req, 
+            ILogger log)
+        {
+            log.LogInformation("Application is healthy.");
+            return new OkObjectResult("healthy");
+        }
+
+        [FunctionName(nameof(StoresGetFunction))]
+        public async Task<IActionResult> StoresGetFunction(
             [HttpTrigger(AuthorizationLevel.Function, "get", Route = "stores/{posType}/{id}")] HttpRequest req,
             [CosmosDB("%CosmosDbName%", "%CosmosDbContainerName%", ConnectionStringSetting = "CosmosDbConnectionString", Id = "{id}", PartitionKey = "{posType}")]
             Store store,
@@ -40,7 +46,7 @@ namespace StoreLocator.ApiFunction
             return new OkObjectResult(store);
         }
 
-        [FunctionName("StoresGetAllFunction")]
+        [FunctionName(nameof(StoresGetAllFunction))]
         public async Task<IActionResult> StoresGetAllFunction(
             [HttpTrigger(AuthorizationLevel.Function, "get", Route = "stores")] HttpRequest req,
             ILogger log)
@@ -54,7 +60,7 @@ namespace StoreLocator.ApiFunction
             return new OkObjectResult(result);
         }
 
-        [FunctionName("StoresGetCountsFunction")]
+        [FunctionName(nameof(StoresGetCountsFunction))]
         public async Task<IActionResult> StoresGetCountsFunction(
             [HttpTrigger(AuthorizationLevel.Function, "get", Route = "stores/counts")] HttpRequest req,
             ILogger log)
@@ -74,7 +80,7 @@ namespace StoreLocator.ApiFunction
         /// <returns>The results as a list.</returns>
         private async Task<List<TItem>> ExecuteQueryAsync<TItem>(SqlQuerySpec querySpec, string containerName = null, bool enableCrossPartitionQuery = true)
         {
-            var collectionUri = UriFactory.CreateDocumentCollectionUri(CosmosDBName, containerName ?? CosmosDBContainerName);
+            var collectionUri = UriFactory.CreateDocumentCollectionUri(Config.CosmosDbName, containerName ?? Config.CosmosDbContainerName);
             var query = documentClient.CreateDocumentQuery<TItem>(collectionUri, querySpec, new FeedOptions
             {
                 EnableCrossPartitionQuery = enableCrossPartitionQuery,
