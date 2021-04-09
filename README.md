@@ -1,5 +1,5 @@
-# DevOps Forum 2020 - StoreLocator Demo
-This is my session for Global Azure Greece 2020, title "Poor-man's cloud native architectures" using Azure service in the most cost-effective manner to create a scalable cloud-native/serverless application costing no more than a beer a month. As the scenario, we used a fictional store locator to demonstrate all components used in such an application.
+# StoreLocator Demo
+This is my serverless session demo, about how leverage Azure services in the most cost-effective manner to create a scalable cloud-native/serverless application costing no more than a beer a month. As the scenario, we used a fictional store locator to demonstrate all components used in such an application.
 
 The services used by this application are:
 - Azure Functions
