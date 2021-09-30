@@ -15,7 +15,7 @@ namespace StoreLocator.Seed
     {
         const string CosmosDBName = "storesDb";
         const string CosmosDBContainerName = "stores";
-        const string CosmosDbConnectionString = "AccountEndpoint=https://cosmos-storeloc8r-demo.documents.azure.com:443/;AccountKey=eE8DRk6tmT11ks3dDDZF0sw7TcZYSaNDcnmtYdZdzdjay0M8GBtvbfO3mWn7tcR2T3Z7NEiy8QgMYhkYnZ1CoA==;";
+        const string CosmosDbConnectionString = "<COSMOS_DB_CONNECTIONSRING>";
         static int Count = 0;
         static readonly CosmosClient cosmosClient = new CosmosClient(CosmosDbConnectionString);
 
