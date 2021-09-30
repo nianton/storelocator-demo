@@ -1,5 +1,5 @@
 # StoreLocator Demo
-This is my serverless session demo, about how leverage Azure services in the most cost-effective manner to create a scalable cloud-native/serverless application costing no more than a beer a month. As the scenario, we used a fictional store locator to demonstrate all components used in such an application.
+This is a serverless sample architecture, about how leverage Azure services in the most cost-effective manner to create a scalable cloud-native/serverless application costing no more than a beer a month. As the scenario, we used a fictional store locator to demonstrate all components used in such an application.
 
 The services used by this application are:
 - Azure Functions
