@@ -1,0 +1,12 @@
+declare LOCATION="westeurope"
+declare APPLICATION_NAME="storeloc8r"
+declare ENVIRONMENT_NAME="demo"
+declare RESOURCE_GROUP_NAME="rg-$APPLICATION_NAME-$ENVIRONMENT_NAME"
+
+az group create -n $RESOURCE_GROUP_NAME -l $LOCATION
+
+# Deploy StoreLocator infrastructure
+az deployment group create \
+  --resource-group $RESOURCE_GROUP_NAME \
+  --template-file ./azure.deploy.bicep \
+  --parameters applicationName=$APPLICATION_NAME environment=$ENVIRONMENT_NAME

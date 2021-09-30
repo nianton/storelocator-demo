@@ -18,7 +18,7 @@ namespace StoreLocator.ApiFunction
     {
         private const string Query = "SELECT * FROM c WHERE ST_WITHIN(c.location, {'type': 'Polygon', 'coordinates': [[[@lat1, @lng1],[@lat2, @lng1],[@lat2, @lng2],[@lat1, @lng2]]] }) < @distance";
 
-        [FunctionName("StoresCosmosAreaSearchFunction")]
+        [FunctionName(nameof(StoresCosmosAreaSearchFunction))]
         public static async Task<IActionResult> Run(
             [HttpTrigger(AuthorizationLevel.Function, "get", Route = "stores/cosmosareasearch")] HttpRequest req,
             [CosmosDB(ConnectionStringSetting = "CosmosDbConnectionString")]

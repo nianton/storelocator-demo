@@ -1,10 +1,10 @@
 {
-  "webAppBaseUrl": "http://localhost:3000",
-  "apiBaseUrl": "http://localhost:7071/api",
-  "apiKey": "684bd7c99ddd4b6991eeda91ef898753",
-  "mapsKey": "YYHfrwcWZgSRgQQezjwmSvslKnumyF7x_N_bHmR4aj4",
-  "clientId": "9b37f574-acb1-415d-aa91-f3fa6e71c573",
-  "authority": "https://grcovid19.b2clogin.com/grcovid19.onmicrosoft.com/B2C_1_signin_signup",
-  "b2cScope": "https://grcovid19.onmicrosoft.com/covid19api/user_impersonation",
-  "appInsightsInstrumentationKey": "c0243971-f985-4a47-a2f6-9d00d84cc90a"
+  "webAppBaseUrl": "[[WEBAPP_URL]]",
+  "apiBaseUrl": "[[PUBLIC_API_URL]]",
+  "apiKey": "[[API_KEY]]",
+  "mapsKey": "[[MAPS_KEY]]",
+  "clientId": "xxxx",
+  "authority": "xxxx",
+  "b2cScope": "xxxx",
+  "appInsightsInstrumentationKey": "xxx"
 }

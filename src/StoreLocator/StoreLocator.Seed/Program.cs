@@ -13,9 +13,9 @@ namespace StoreLocator.Seed
 {
     class Program
     {
-        const string CosmosDBName = "storeloc8tr-cdb";
+        const string CosmosDBName = "storesDb";
         const string CosmosDBContainerName = "stores";
-        const string CosmosDbConnectionString = "AccountEndpoint=https://storeloc8tr-demo-cdbacc.documents.azure.com:443/;AccountKey=eFAnG6UOlDajEfRH3xKrNwCFfjYvSnV6LbsKS0hSJcKexXdzJ75wh40z52zPXlV541ZFTa1aFO48ZqswjFtlsA==;";// "AccountEndpoint=https://opap-storelocator-cdbac.documents.azure.com:443/;AccountKey=2l7HeiM3aNhCLu9wF4KPcE5TU11H7VsGdUgfyacZK1Q0g0H8vDhZ7hXoXYhuyJFEOChjmWWmLxJg6JNlComaYg==;";
+        const string CosmosDbConnectionString = "AccountEndpoint=https://cosmos-storeloc8r-demo.documents.azure.com:443/;AccountKey=eE8DRk6tmT11ks3dDDZF0sw7TcZYSaNDcnmtYdZdzdjay0M8GBtvbfO3mWn7tcR2T3Z7NEiy8QgMYhkYnZ1CoA==;";
         static int Count = 0;
         static readonly CosmosClient cosmosClient = new CosmosClient(CosmosDbConnectionString);
 

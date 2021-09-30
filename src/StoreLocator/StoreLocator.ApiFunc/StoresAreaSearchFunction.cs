@@ -13,7 +13,7 @@ namespace StoreLocator.ApiFunction
     {
         [FunctionName(nameof(StoresAreaSearchFunction))]
         public static async Task<IActionResult> Run(
-            [HttpTrigger(AuthorizationLevel.Function, "post", Route = " stores/areasearch")]
+            [HttpTrigger(AuthorizationLevel.Function, "post", Route = "stores/areasearch")]
             HttpRequest req,
             ILogger log)
         {

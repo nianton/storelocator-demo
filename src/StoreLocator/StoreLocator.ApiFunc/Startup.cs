@@ -18,7 +18,7 @@ namespace StoreLocator.ApiFunction
 
         private static DocumentClient DocumentClientFactory()
         {
-            var connectionString = new CosmosDBConnectionString(Config.CosmosDBConnectionString);
+            var connectionString = new CosmosDBConnectionString(Config.CosmosDbConnectionString);
             return new DocumentClient(connectionString.ServiceEndpoint, connectionString.AuthKey);
         }
     }
