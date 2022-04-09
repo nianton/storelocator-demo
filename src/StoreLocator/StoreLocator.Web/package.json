@@ -20,7 +20,7 @@
     "i18next": "^19.3.4",
     "i18next-browser-languagedetector": "^4.0.2",
     "materialize-css": "^1.0.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "msal": "^1.2.2",
     "qrcode.react": "^1.0.0",
     "react": "^16.13.1",
